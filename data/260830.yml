@@ -1,0 +1,65 @@
+about:
+  description: DuckDB is an analytical in-process SQL database management system
+  license: MIT
+  homepage: http://www.duckdb.org
+  head: 8616efa
+  archived: false
+  latestVersion: v1.5.5
+  collectedAt: 2026-08-30T05:19:23Z
+timeline:
+  created: 2018-06-26
+  lastCommit: 2026-08-28
+  lastRelease: 2026-07-22
+popularity:
+  star: 40806
+  watcher: 271
+  fork: 3659
+  release: 63
+  contributor: 650
+  pullRequest: 1917
+  issue: 7502
+language:
+  C++: 49961289
+  Python: 1698266
+  C: 1244971
+  Swift: 286814
+  CMake: 234586
+  HTML: 71156
+  Shell: 37393
+  Makefile: 37023
+  TSQL: 23099
+  CSS: 6204
+totalLine: 53600801
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 313
+    openPR: 189
+    closedIssue: 101
+    openIssue: 99
+    commit: 1160
+  last90d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 1091
+    openPR: 265
+    closedIssue: 324
+    openIssue: 237
+    commit: 5130
+  last180d:
+    since: 2026-03-03
+    release: 7
+    mergedPR: 2156
+    openPR: 275
+    closedIssue: 593
+    openIssue: 327
+    commit: 10451
+  last360d:
+    since: 2025-09-04
+    release: 12
+    mergedPR: 3442
+    openPR: 275
+    closedIssue: 916
+    openIssue: 441
+    commit: 17896
