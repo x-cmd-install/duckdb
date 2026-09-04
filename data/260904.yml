@@ -1,65 +1,93 @@
 about:
-  description: DuckDB is an analytical in-process SQL database management system
+  description:
+  |
+    DuckDB is an analytical in-process SQL database management system
   license: MIT
   homepage: http://www.duckdb.org
-  head: c2f5210
+  head: 777f71c
   archived: false
   latestVersion: v1.5.5
-  collectedAt: 2026-09-04T04:24:36Z
+  collectedAt: 2026-09-04T19:29:12Z
 timeline:
   created: 2018-06-26
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-07-22
 popularity:
-  star: 40980
+  star: 40996
   watcher: 277
-  fork: 3711
+  fork: 3717
   release: 63
-  contributor: 673
-  pullRequest: 1931
-  issue: 7555
+  contributor: 674
+  pullRequest: 13867
+  issue: 7562
 language:
-  C++: 50699139
-  Python: 1729938
-  C: 1376104
+  C++: 51634929
+  Python: 1729923
+  C: 1685500
   Swift: 286814
-  CMake: 233424
+  CMake: 234968
   HTML: 71156
   Shell: 38152
   Makefile: 37966
   TSQL: 23099
   CSS: 6204
-totalLine: 54501996
+totalBytes: 55748711
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 359
-    openPR: 172
-    closedIssue: 91
-    openIssue: 110
-    commit: 1764
+    mergedPR: 372
+    openPR: 182
+    closedIssue: 97
+    openIssue: 111
+    commit: 1874
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 790
+    openPR: 248
+    closedIssue: 292
+    openIssue: 228
+    commit: 3760
   last90d:
     since: 2026-06-06
     release: 3
-    mergedPR: 1132
-    openPR: 253
-    closedIssue: 355
+    mergedPR: 1146
+    openPR: 261
+    closedIssue: 362
     openIssue: 251
-    commit: 5859
+    commit: 5971
   last180d:
     since: 2026-03-08
     release: 7
-    mergedPR: 2243
-    openPR: 262
-    closedIssue: 627
+    mergedPR: 2257
+    openPR: 270
+    closedIssue: 634
     openIssue: 340
-    commit: 11909
+    commit: 12021
   last360d:
     since: 2025-09-09
     release: 12
-    mergedPR: 3531
-    openPR: 263
-    closedIssue: 950
+    mergedPR: 3545
+    openPR: 271
+    closedIssue: 957
     openIssue: 454
-    commit: 19555
+    commit: 19667
+  last720d:
+    since: 2024-09-14
+    release: 21
+    mergedPR: 5919
+    openPR: 271
+    closedIssue: 2118
+    openIssue: 540
+    commit: 35332
+total:
+  release: 63
+  mergedPR: 11925
+  openPR: 271
+  closedIssue: 6984
+  openIssue: 578
+  commit: 83826
+---
+---
+
