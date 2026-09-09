@@ -7,7 +7,7 @@ DuckDB is an analytical in-process SQL database management system
 - **Latest release**: `v1.5.5` (2026-07-22)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 41066 · **Forks**: 3732 · **Open issues**: 7584 · **Contributors**: 677
+- **Stars**: 41078 · **Forks**: 3735 · **Open issues**: 7590 · **Contributors**: 678
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/duckdb> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:42:27Z._
+_Last regenerated: 2026-09-09T05:33:25Z._
