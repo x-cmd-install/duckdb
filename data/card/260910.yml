@@ -2,12 +2,12 @@ about:
   description: "DuckDB is an analytical in-process SQL database management system"
   license: MIT
   homepage: http://www.duckdb.org
-  head: 668f947
+  head: b016ea9
   archived: false
   latestVersion: "v1.5.5"
   latestRelease: "v1.5.5"
   latestPrerelease: "v0.1.6"
-  collectedAt: 2026-09-10T05:26:30Z
+  collectedAt: 2026-09-10T17:30:49Z
 timeline:
   created: 2018-06-26
   lastCommit: 2026-09-10
@@ -15,95 +15,95 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 2020-04-05
 popularity:
-  star: 41114
+  star: 41126
   watcher: 278
-  fork: 3743
+  fork: 3745
   release: 63
-  contributor: 679
-  pullRequest: 13998
-  issue: 7597
+  contributor: 680
+  pullRequest: 14020
+  issue: 7605
 language:
-  C++: 51735919
-  Python: 1765914
+  C++: 51785561
+  Python: 1768841
   C: 1685500
   Swift: 286814
-  CMake: 235806
+  CMake: 235893
   HTML: 71156
   Shell: 38243
   Makefile: 38130
   TSQL: 23099
   CSS: 6204
-totalBytes: 55886785
+totalBytes: 55939441
 recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 403
-    openPR: 165
-    closedIssue: 97
-    openIssue: 94
-    commit: 1948
+    mergedPR: 414
+    openPR: 174
+    closedIssue: 104
+    openIssue: 95
+    commit: 1994
   last60d:
     since: 2026-07-12
     release: 1
-    mergedPR: 833
-    openPR: 258
-    closedIssue: 299
-    openIssue: 212
-    commit: 3825
+    mergedPR: 844
+    openPR: 267
+    closedIssue: 308
+    openIssue: 211
+    commit: 3881
   last90d:
     since: 2026-06-12
     release: 3
-    mergedPR: 1159
-    openPR: 275
-    closedIssue: 377
-    openIssue: 240
-    commit: 5823
+    mergedPR: 1170
+    openPR: 284
+    closedIssue: 387
+    openIssue: 238
+    commit: 5879
   last180d:
     since: 2026-03-14
     release: 6
-    mergedPR: 2278
-    openPR: 283
-    closedIssue: 646
-    openIssue: 326
-    commit: 12010
+    mergedPR: 2289
+    openPR: 292
+    closedIssue: 656
+    openIssue: 324
+    commit: 12066
   last360d:
     since: 2025-09-15
     release: 12
-    mergedPR: 3617
-    openPR: 284
-    closedIssue: 991
-    openIssue: 440
-    commit: 19948
+    mergedPR: 3628
+    openPR: 293
+    closedIssue: 1001
+    openIssue: 438
+    commit: 20004
   last720d:
     since: 2024-09-20
     release: 21
-    mergedPR: 5966
-    openPR: 284
-    closedIssue: 2137
-    openIssue: 528
-    commit: 35514
+    mergedPR: 5977
+    openPR: 293
+    closedIssue: 2147
+    openIssue: 526
+    commit: 35570
 total:
   release: 63
-  mergedPR: 12031
-  openPR: 284
-  closedIssue: 7032
-  openIssue: 565
-  commit: 84244
+  mergedPR: 12042
+  openPR: 293
+  closedIssue: 7042
+  openIssue: 563
+  commit: 84300
 ---
 path: /home/runner/.x-repo/github.com/duckdb/duckdb
-collectedAt: 2026-09-10T05:27:29Z
+collectedAt: 2026-09-10T17:32:17Z
 loc:
   Cpp:
-    code: 704785
-    comments: 63611
-    blanks: 90595
-    files: 2305
+    code: 705340
+    comments: 63647
+    blanks: 90648
+    files: 2309
   CppHeader:
-    code: 246125
-    comments: 39307
-    blanks: 37527
-    files: 1821
+    code: 246361
+    comments: 39344
+    blanks: 37551
+    files: 1822
   CHeader:
     code: 79338
     comments: 55884
@@ -115,14 +115,14 @@ loc:
     blanks: 515
     files: 586
   Python:
-    code: 34631
+    code: 34679
     comments: 1178
-    blanks: 5752
+    blanks: 5758
     files: 177
   Yaml:
-    code: 26941
-    comments: 1024
-    blanks: 872
+    code: 26944
+    comments: 1027
+    blanks: 873
     files: 71
   C:
     code: 26145
@@ -130,12 +130,12 @@ loc:
     blanks: 4050
     files: 67
   Json:
-    code: 17354
+    code: 17386
     comments: 0
     blanks: 29
     files: 173
   CMake:
-    code: 6429
+    code: 6433
     comments: 308
     blanks: 621
     files: 254
@@ -195,10 +195,10 @@ loc:
     blanks: 62
     files: 13
 total:
-  code: 1194991
-  comments: 172563
-  blanks: 157129
-  files: 6090
+  code: 1195869
+  comments: 172639
+  blanks: 157213
+  files: 6095
 ---
 
 ---
