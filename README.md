@@ -14,12 +14,12 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,194,547** lines of code across **5350** files in the top 5 languages.
+Total: **1,194,559** lines of code across **5350** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 705,331 | 63,648 | 90,646 | 2309 |
-| CppHeader | 246,487 | 39,382 | 37,579 | 1824 |
+| Cpp | 705,342 | 63,649 | 90,649 | 2309 |
+| CppHeader | 246,488 | 39,383 | 37,579 | 1824 |
 | CHeader | 79,338 | 55,884 | 14,307 | 454 |
 | Sql | 43,804 | 226 | 515 | 586 |
 | Python | 34,700 | 1,179 | 5,762 | 177 |
@@ -42,18 +42,18 @@ Total: **1,194,547** lines of code across **5350** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 12047 · **Open PRs**: 293 · **Closed issues**: 7042 · **Open issues**: 564 · **Commits**: 84320
+- **Releases**: 63 · **Merged PRs**: 12049 · **Open PRs**: 291 · **Closed issues**: 7044 · **Open issues**: 562 · **Commits**: 84326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 419 | 174 | 104 | 96 | 2014 |
-| last60d | 2026-07-12 | 1 | 849 | 267 | 308 | 212 | 3901 |
-| 90d | 2026-06-12 | 3 | 1175 | 284 | 387 | 239 | 5899 |
-| last180d | 2026-03-14 | 6 | 2294 | 292 | 656 | 325 | 12086 |
-| 360d | 2025-09-15 | 12 | 3633 | 293 | 1001 | 439 | 20024 |
-| last720d | 2024-09-20 | 21 | 5982 | 293 | 2147 | 527 | 35590 |
+| 30d | 2026-08-11 | 0 | 421 | 172 | 106 | 94 | 2020 |
+| last60d | 2026-07-12 | 1 | 851 | 265 | 310 | 210 | 3907 |
+| 90d | 2026-06-12 | 3 | 1177 | 282 | 389 | 237 | 5905 |
+| last180d | 2026-03-14 | 6 | 2296 | 290 | 658 | 323 | 12092 |
+| 360d | 2025-09-15 | 12 | 3635 | 291 | 1003 | 437 | 20030 |
+| last720d | 2024-09-20 | 21 | 5984 | 291 | 2149 | 525 | 35598 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:35:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:17:25Z._
