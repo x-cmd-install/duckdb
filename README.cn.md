@@ -38,22 +38,22 @@ x install duckdb
 
 ## 流行度
 
-- **Star**: 41,189 · **Fork**: 3,761 · **开放 issue**: 7,625 · **贡献者**: 682
+- **Star**: 41,210 · **Fork**: 3,765 · **开放 issue**: 7,629 · **贡献者**: 682
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 12078 · **开放 PR**: 299 · **已关闭 issue**: 7055 · **开放 issue**: 570 · **提交数**: 84467
+- **发布数**: 63 · **已合并 PR**: 12078 · **开放 PR**: 313 · **已关闭 issue**: 7055 · **开放 issue**: 574 · **提交数**: 84467
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 413 | 179 | 102 | 99 | 1605 |
-| last60d | 2026-07-15 | 1 | 833 | 269 | 312 | 213 | 3537 |
-| 90d | 2026-06-15 | 3 | 1178 | 290 | 395 | 247 | 5598 |
-| last180d | 2026-03-17 | 6 | 2292 | 298 | 651 | 332 | 11801 |
-| 360d | 2025-09-18 | 11 | 3642 | 299 | 1001 | 443 | 19943 |
-| last720d | 2024-09-23 | 21 | 5998 | 299 | 2158 | 533 | 35676 |
+| 30d | 2026-08-15 | 0 | 410 | 191 | 101 | 102 | 1605 |
+| last60d | 2026-07-16 | 1 | 816 | 281 | 302 | 213 | 3537 |
+| 90d | 2026-06-16 | 3 | 1158 | 302 | 394 | 250 | 5598 |
+| last180d | 2026-03-18 | 6 | 2275 | 312 | 645 | 331 | 11801 |
+| 360d | 2025-09-19 | 11 | 3636 | 313 | 998 | 445 | 19943 |
+| last720d | 2024-09-24 | 21 | 5987 | 313 | 2149 | 537 | 35643 |
 
 ## Release 资产
 
@@ -89,20 +89,6 @@ x install duckdb
 | [static-libs-osx-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.5/static-libs-osx-arm64.zip) | 25.0 MiB | `native/darwin/arm64` |
 | [static-libs-windows-mingw.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.5/static-libs-windows-mingw.zip) | 27.3 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/duckdb) 上共有 **82** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**28** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.5.5` | ✅ latest |
-| Debian 14 | `1.5.5` | ✅ latest |
-| Arch | `1.5.5` | ✅ latest |
-| Homebrew | `1.5.5` | ✅ latest |
-| Nix unstable | `1.5.5` | ✅ latest |
-| Void | `1.5.0` | ⚠️ outdated |
-| Alpine edge | `1.5.5` | ✅ latest |
-
 ## 改进这些数据
 
 duckdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `duckdb` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -112,4 +98,4 @@ duckdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:41:11Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:56:01Z._

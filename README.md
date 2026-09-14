@@ -38,22 +38,22 @@ Total: **1,200,564** lines of code across **5364** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,189 · **Forks**: 3,761 · **Open issues**: 7,625 · **Contributors**: 682
+- **Stars**: 41,210 · **Forks**: 3,765 · **Open issues**: 7,629 · **Contributors**: 682
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 12078 · **Open PRs**: 299 · **Closed issues**: 7055 · **Open issues**: 570 · **Commits**: 84467
+- **Releases**: 63 · **Merged PRs**: 12078 · **Open PRs**: 313 · **Closed issues**: 7055 · **Open issues**: 574 · **Commits**: 84467
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 413 | 179 | 102 | 99 | 1605 |
-| last60d | 2026-07-15 | 1 | 833 | 269 | 312 | 213 | 3537 |
-| 90d | 2026-06-15 | 3 | 1178 | 290 | 395 | 247 | 5598 |
-| last180d | 2026-03-17 | 6 | 2292 | 298 | 651 | 332 | 11801 |
-| 360d | 2025-09-18 | 11 | 3642 | 299 | 1001 | 443 | 19943 |
-| last720d | 2024-09-23 | 21 | 5998 | 299 | 2158 | 533 | 35676 |
+| 30d | 2026-08-15 | 0 | 410 | 191 | 101 | 102 | 1605 |
+| last60d | 2026-07-16 | 1 | 816 | 281 | 302 | 213 | 3537 |
+| 90d | 2026-06-16 | 3 | 1158 | 302 | 394 | 250 | 5598 |
+| last180d | 2026-03-18 | 6 | 2275 | 312 | 645 | 331 | 11801 |
+| 360d | 2025-09-19 | 11 | 3636 | 313 | 998 | 445 | 19943 |
+| last720d | 2024-09-24 | 21 | 5987 | 313 | 2149 | 537 | 35643 |
 
 ## Release assets
 
@@ -89,20 +89,6 @@ Total: **1,200,564** lines of code across **5364** files in the top 5 languages.
 | [static-libs-osx-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.5/static-libs-osx-arm64.zip) | 25.0 MiB | `native/darwin/arm64` |
 | [static-libs-windows-mingw.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.5/static-libs-windows-mingw.zip) | 27.3 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **82** distros on [repology.org](https://repology.org/project/duckdb). **30** are ✅ on the latest upstream release, **28** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.5.5` | ✅ latest |
-| Debian 14 | `1.5.5` | ✅ latest |
-| Arch | `1.5.5` | ✅ latest |
-| Homebrew | `1.5.5` | ✅ latest |
-| Nix unstable | `1.5.5` | ✅ latest |
-| Void | `1.5.0` | ⚠️ outdated |
-| Alpine edge | `1.5.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `duckdb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -112,4 +98,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:41:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:56:01Z._
