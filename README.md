@@ -38,22 +38,22 @@ Total: **1,225,287** lines of code across **5476** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 41,877 · **Forks**: 3,853 · **Open issues**: 7,789 · **Contributors**: 697
+- **Stars**: 41,891 · **Forks**: 3,858 · **Open issues**: 7,798 · **Contributors**: 696
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 12512 · **Open PRs**: 352 · **Closed issues**: 7179 · **Open issues**: 610 · **Commits**: 86446
+- **Releases**: 64 · **Merged PRs**: 12512 · **Open PRs**: 364 · **Closed issues**: 7179 · **Open issues**: 619 · **Commits**: 86446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 539 | 183 | 104 | 133 | 2239 |
-| last60d | 2026-08-04 | 1 | 969 | 283 | 246 | 193 | 4507 |
-| 90d | 2026-07-05 | 2 | 1393 | 333 | 470 | 286 | 6484 |
-| last180d | 2026-04-06 | 6 | 2473 | 350 | 684 | 356 | 12699 |
-| 360d | 2025-10-08 | 11 | 3963 | 352 | 1065 | 474 | 21284 |
-| last720d | 2024-10-13 | 21 | 6341 | 352 | 2197 | 569 | 37024 |
+| 30d | 2026-09-04 | 1 | 515 | 191 | 97 | 141 | 1588 |
+| last60d | 2026-08-05 | 1 | 947 | 291 | 244 | 202 | 4123 |
+| 90d | 2026-07-06 | 2 | 1373 | 344 | 463 | 294 | 6045 |
+| last180d | 2026-04-07 | 6 | 2452 | 362 | 672 | 363 | 12271 |
+| 360d | 2025-10-09 | 11 | 3953 | 364 | 1063 | 483 | 20979 |
+| last720d | 2024-10-14 | 21 | 6336 | 364 | 2195 | 577 | 37011 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:57:01Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:49:57Z._
