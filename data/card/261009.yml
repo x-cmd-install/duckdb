@@ -1,0 +1,204 @@
+about:
+  description: "DuckDB is an analytical in-process SQL database management system"
+  license: MIT
+  homepage: http://www.duckdb.org
+  head: 5d3ea24
+  archived: false
+  latestVersion: "v1.5.6"
+  latestRelease: "v1.5.6"
+  latestPrerelease: "v0.1.6"
+  collectedAt: 2026-10-09T06:52:26Z
+timeline:
+  created: 2018-06-26
+  lastCommit: 2026-10-09
+  lastVersion: 2026-09-28
+  lastRelease: 2026-09-28
+  lastPrerelease: 2020-04-05
+popularity:
+  star: 41998
+  watcher: 278
+  fork: 3889
+  release: 64
+  contributor: 706
+  pullRequest: 14964
+  issue: 7828
+language:
+  C++: 53329440
+  Python: 1863917
+  C: 1825430
+  Swift: 287328
+  CMake: 258174
+  HTML: 71156
+  Shell: 40850
+  Makefile: 39438
+  TSQL: 23099
+  CSS: 6204
+totalBytes: 57745036
+recent:
+  last30d:
+    since: 2026-09-09
+    release: 1
+    mergedPR: 585
+    openPR: 296
+    closedIssue: 109
+    openIssue: 126
+    commit: 2198
+  last60d:
+    since: 2026-08-10
+    release: 1
+    mergedPR: 1063
+    openPR: 379
+    closedIssue: 249
+    openIssue: 185
+    commit: 4758
+  last90d:
+    since: 2026-07-11
+    release: 2
+    mergedPR: 1492
+    openPR: 446
+    closedIssue: 469
+    openIssue: 275
+    commit: 6686
+  last180d:
+    since: 2026-04-12
+    release: 6
+    mergedPR: 2573
+    openPR: 466
+    closedIssue: 708
+    openIssue: 348
+    commit: 12912
+  last360d:
+    since: 2025-10-14
+    release: 11
+    mergedPR: 4086
+    openPR: 467
+    closedIssue: 1096
+    openIssue: 463
+    commit: 21620
+  last720d:
+    since: 2024-10-19
+    release: 20
+    mergedPR: 6469
+    openPR: 467
+    closedIssue: 2226
+    openIssue: 553
+    commit: 37404
+total:
+  release: 64
+  mergedPR: 12686
+  openPR: 467
+  closedIssue: 7233
+  openIssue: 595
+  commit: 87107
+---
+path: /home/runner/.x-repo/github.com/duckdb/duckdb
+collectedAt: 2026-10-09T06:53:20Z
+loc:
+  Cpp:
+    code: 736607
+    comments: 65544
+    blanks: 93506
+    files: 2399
+  CppHeader:
+    code: 248386
+    comments: 41084
+    blanks: 38505
+    files: 1856
+  CHeader:
+    code: 80317
+    comments: 57117
+    blanks: 14440
+    files: 456
+  Sql:
+    code: 43981
+    comments: 230
+    blanks: 516
+    files: 594
+  Python:
+    code: 36623
+    comments: 1258
+    blanks: 5920
+    files: 189
+  Yaml:
+    code: 29032
+    comments: 1104
+    blanks: 959
+    files: 73
+  C:
+    code: 26191
+    comments: 4430
+    blanks: 4053
+    files: 68
+  Json:
+    code: 18034
+    comments: 0
+    blanks: 28
+    files: 175
+  CMake:
+    code: 6980
+    comments: 361
+    blanks: 598
+    files: 257
+  Swift:
+    code: 4912
+    comments: 2329
+    blanks: 968
+    files: 45
+  Sh:
+    code: 903
+    comments: 170
+    blanks: 217
+    files: 20
+  Makefile:
+    code: 853
+    comments: 26
+    blanks: 153
+    files: 3
+  Autoconf:
+    code: 635
+    comments: 271
+    blanks: 291
+    files: 50
+  Thrift:
+    code: 354
+    comments: 814
+    blanks: 166
+    files: 1
+  Css:
+    code: 335
+    comments: 1
+    blanks: 56
+    files: 1
+  Toml:
+    code: 51
+    comments: 8
+    blanks: 6
+    files: 2
+  Html:
+    code: 47
+    comments: 0
+    blanks: 4
+    files: 1
+  Svg:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 2999
+    blanks: 1019
+    files: 50
+  Text:
+    code: 0
+    comments: 350
+    blanks: 62
+    files: 13
+total:
+  code: 1235731
+  comments: 178230
+  blanks: 161555
+  files: 6257
+---
+
+---
