@@ -38,22 +38,22 @@ Total: **1,269,169** lines of code across **5577** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,211 · **Forks**: 3,948 · **Open issues**: 7,892 · **Contributors**: 727
+- **Stars**: 42,232 · **Forks**: 3,957 · **Open issues**: 7,896 · **Contributors**: 727
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 13018 · **Open PRs**: 369 · **Closed issues**: 7366 · **Open issues**: 526 · **Commits**: 89158
+- **Releases**: 64 · **Merged PRs**: 13018 · **Open PRs**: 376 · **Closed issues**: 7370 · **Open issues**: 526 · **Commits**: 89158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 1 | 720 | 209 | 119 | 115 | 3272 |
-| last60d | 2026-08-18 | 1 | 1292 | 282 | 285 | 164 | 6356 |
-| 90d | 2026-07-19 | 2 | 1729 | 340 | 514 | 239 | 8397 |
-| last180d | 2026-04-20 | 5 | 2817 | 368 | 781 | 307 | 14558 |
-| 360d | 2025-10-22 | 11 | 4376 | 369 | 1193 | 416 | 23495 |
-| last720d | 2024-10-27 | 20 | 6744 | 369 | 2319 | 488 | 38995 |
+| 30d | 2026-09-18 | 1 | 695 | 208 | 115 | 116 | 2560 |
+| last60d | 2026-08-19 | 1 | 1275 | 284 | 285 | 164 | 5848 |
+| 90d | 2026-07-20 | 2 | 1710 | 344 | 508 | 237 | 7932 |
+| last180d | 2026-04-21 | 5 | 2799 | 375 | 780 | 306 | 14060 |
+| 360d | 2025-10-23 | 11 | 4372 | 376 | 1195 | 417 | 23158 |
+| last720d | 2024-10-28 | 20 | 6733 | 376 | 2315 | 488 | 38984 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:53:27Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:05:02Z._
