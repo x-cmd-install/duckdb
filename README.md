@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-DuckDB is an analytical in-process SQL database management system
+DuckDB is a high-performance analytical database system
 
 [![x-cmd/install — duckdb Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/duckdb.svg)](https://x-cmd.com/install/duckdb)
 
@@ -14,15 +14,15 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,280,313** lines of code across **5589** files in the top 5 languages.
+Total: **1,281,556** lines of code across **5595** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 772,190 | 67,286 | 96,341 | 2464 |
-| CppHeader | 254,434 | 42,540 | 39,297 | 1878 |
-| CHeader | 80,624 | 58,008 | 14,566 | 456 |
-| Sql | 44,048 | 232 | 518 | 597 |
-| Python | 38,784 | 1,291 | 6,158 | 194 |
+| Cpp | 773,202 | 67,374 | 96,432 | 2465 |
+| CppHeader | 254,591 | 42,616 | 39,308 | 1880 |
+| CHeader | 80,625 | 58,013 | 14,566 | 456 |
+| Sql | 44,051 | 232 | 518 | 600 |
+| Python | 38,840 | 1,292 | 6,164 | 194 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,280,313** lines of code across **5589** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.5.6` (2026-09-28)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 42,282 · **Forks**: 3,980 · **Open issues**: 7,924 · **Contributors**: 728
+- **Stars**: 42,324 · **Forks**: 3,996 · **Open issues**: 7,939 · **Contributors**: 731
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 13066 · **Open PRs**: 367 · **Closed issues**: 7392 · **Open issues**: 532 · **Commits**: 89402
+- **Releases**: 64 · **Merged PRs**: 13103 · **Open PRs**: 365 · **Closed issues**: 7401 · **Open issues**: 538 · **Commits**: 89548
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 723 | 195 | 123 | 139 | 2805 |
-| last60d | 2026-08-21 | 1 | 1302 | 269 | 298 | 182 | 6093 |
-| 90d | 2026-07-22 | 2 | 1719 | 334 | 502 | 243 | 8177 |
-| last180d | 2026-04-23 | 5 | 2808 | 366 | 790 | 321 | 14305 |
-| 360d | 2025-10-25 | 11 | 4415 | 367 | 1211 | 425 | 23403 |
-| last720d | 2024-10-30 | 20 | 6762 | 367 | 2326 | 495 | 39086 |
+| 30d | 2026-09-21 | 1 | 740 | 191 | 128 | 141 | 2941 |
+| last60d | 2026-08-22 | 1 | 1336 | 266 | 306 | 188 | 6230 |
+| 90d | 2026-07-23 | 1 | 1745 | 328 | 505 | 244 | 8314 |
+| last180d | 2026-04-24 | 5 | 2833 | 364 | 797 | 323 | 14442 |
+| 360d | 2025-10-26 | 11 | 4450 | 365 | 1218 | 429 | 23540 |
+| last720d | 2024-10-31 | 20 | 6790 | 365 | 2332 | 500 | 39184 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:30:54Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:22:07Z._
