@@ -14,15 +14,15 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,281,556** lines of code across **5595** files in the top 5 languages.
+Total: **1,286,253** lines of code across **5604** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 773,202 | 67,374 | 96,432 | 2465 |
-| CppHeader | 254,591 | 42,616 | 39,308 | 1880 |
-| CHeader | 80,625 | 58,013 | 14,566 | 456 |
+| Cpp | 774,675 | 67,507 | 96,580 | 2471 |
+| CppHeader | 254,743 | 42,674 | 39,348 | 1882 |
+| CHeader | 83,078 | 58,194 | 14,589 | 456 |
 | Sql | 44,051 | 232 | 518 | 600 |
-| Python | 38,840 | 1,292 | 6,164 | 194 |
+| Python | 39,128 | 1,300 | 6,204 | 195 |
 
 ## Source
 
@@ -32,62 +32,61 @@ Total: **1,281,556** lines of code across **5595** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.5.6` (2026-09-28)
-- **Last commit**: 2026-10-20
-- **Assets in release**: 29
+- **Latest**: `v2.0.0` (2026-10-21)
+- **Last commit**: 2026-10-21
+- **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 42,324 · **Forks**: 3,996 · **Open issues**: 7,939 · **Contributors**: 731
+- **Stars**: 42,370 · **Forks**: 4,012 · **Open issues**: 7,970 · **Contributors**: 733
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 13103 · **Open PRs**: 365 · **Closed issues**: 7401 · **Open issues**: 538 · **Commits**: 89548
+- **Releases**: 65 · **Merged PRs**: 13126 · **Open PRs**: 383 · **Closed issues**: 7407 · **Open issues**: 563 · **Commits**: 89766
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 740 | 191 | 128 | 141 | 2941 |
-| last60d | 2026-08-22 | 1 | 1336 | 266 | 306 | 188 | 6230 |
-| 90d | 2026-07-23 | 1 | 1745 | 328 | 505 | 244 | 8314 |
-| last180d | 2026-04-24 | 5 | 2833 | 364 | 797 | 323 | 14442 |
-| 360d | 2025-10-26 | 11 | 4450 | 365 | 1218 | 429 | 23540 |
-| last720d | 2024-10-31 | 20 | 6790 | 365 | 2332 | 500 | 39184 |
+| 30d | 2026-09-22 | 2 | 736 | 206 | 129 | 164 | 3118 |
+| last60d | 2026-08-23 | 2 | 1349 | 284 | 309 | 213 | 6408 |
+| 90d | 2026-07-24 | 2 | 1746 | 344 | 503 | 259 | 8492 |
+| last180d | 2026-04-25 | 6 | 2852 | 382 | 802 | 348 | 14620 |
+| 360d | 2025-10-27 | 12 | 4468 | 383 | 1215 | 453 | 23718 |
+| last720d | 2024-11-01 | 21 | 6807 | 383 | 2336 | 525 | 39352 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [duckdb_cli-linux-amd64-musl.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-amd64-musl.gz) | 21.3 MiB | `native/linux/x64/musl` |
-| [duckdb_cli-linux-amd64-musl.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-amd64-musl.zip) | 21.5 MiB | `native/linux/x64/musl` |
-| [duckdb_cli-linux-amd64.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-amd64.gz) | 20.2 MiB | `native/linux/x64` |
-| [duckdb_cli-linux-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-amd64.zip) | 20.3 MiB | `native/linux/x64` |
-| [duckdb_cli-linux-arm64-musl.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-arm64-musl.gz) | 19.6 MiB | `native/linux/arm64/musl` |
-| [duckdb_cli-linux-arm64-musl.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-arm64-musl.zip) | 19.7 MiB | `native/linux/arm64/musl` |
-| [duckdb_cli-linux-arm64.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-arm64.gz) | 18.3 MiB | `native/linux/arm64` |
-| [duckdb_cli-linux-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-linux-arm64.zip) | 18.4 MiB | `native/linux/arm64` |
-| [duckdb_cli-osx-amd64.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-amd64.gz) | 18.0 MiB | `native/darwin/x64` |
-| [duckdb_cli-osx-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-amd64.zip) | 18.1 MiB | `native/darwin/x64` |
-| [duckdb_cli-osx-arm64.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-arm64.gz) | 16.2 MiB | `native/darwin/arm64` |
-| [duckdb_cli-osx-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-arm64.zip) | 16.2 MiB | `native/darwin/arm64` |
-| [duckdb_cli-osx-universal.gz](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-universal.gz) | 34.1 MiB | `native/darwin/x64` |
-| [duckdb_cli-osx-universal.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-osx-universal.zip) | 34.3 MiB | `native/darwin/x64` |
-| [duckdb_cli-windows-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-windows-amd64.zip) | 12.3 MiB | `native/win/x64` |
-| [duckdb_cli-windows-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/duckdb_cli-windows-arm64.zip) | 13.2 MiB | `native/win/arm64` |
-| [libduckdb-linux-amd64-musl.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-linux-amd64-musl.zip) | 40.7 MiB | `native/linux/x64/musl` |
-| [libduckdb-linux-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-linux-amd64.zip) | 39.5 MiB | `native/linux/x64` |
-| [libduckdb-linux-arm64-musl.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-linux-arm64-musl.zip) | 38.4 MiB | `native/linux/arm64/musl` |
-| [libduckdb-linux-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-linux-arm64.zip) | 36.0 MiB | `native/linux/arm64` |
-| [libduckdb-osx-universal.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-osx-universal.zip) | 34.5 MiB | `native/darwin/x64` |
-| [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-src.zip) | 4.8 MiB | `other` |
-| [libduckdb-windows-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-windows-amd64.zip) | 12.8 MiB | `native/win/x64` |
-| [libduckdb-windows-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/libduckdb-windows-arm64.zip) | 13.7 MiB | `native/win/arm64` |
-| [static-libs-linux-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/static-libs-linux-amd64.zip) | 28.6 MiB | `native/linux/x64` |
-| [static-libs-linux-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/static-libs-linux-arm64.zip) | 27.5 MiB | `native/linux/arm64` |
-| [static-libs-osx-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/static-libs-osx-amd64.zip) | 25.9 MiB | `native/darwin/x64` |
-| [static-libs-osx-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/static-libs-osx-arm64.zip) | 25.1 MiB | `native/darwin/arm64` |
-| [static-libs-windows-mingw.zip](https://github.com/duckdb/duckdb/releases/download/v1.5.6/static-libs-windows-mingw.zip) | 27.4 MiB | `native/win/x64` |
+| [duckdb-cli-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64-musl.tar.gz) | 21.6 MiB | `native/linux/x64/musl` |
+| [duckdb-cli-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64.tar.gz) | 23.3 MiB | `native/linux/x64` |
+| [duckdb-cli-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64-musl.tar.gz) | 19.8 MiB | `native/linux/arm64/musl` |
+| [duckdb-cli-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64.tar.gz) | 21.3 MiB | `native/linux/arm64` |
+| [duckdb-cli-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-amd64.tar.gz) | 20.5 MiB | `native/darwin/x64` |
+| [duckdb-cli-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-arm64.tar.gz) | 18.3 MiB | `native/darwin/arm64` |
+| [duckdb-cli-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-universal.tar.gz) | 38.8 MiB | `native/darwin/x64` |
+| [duckdb-cli-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-amd64.tar.gz) | 18.8 MiB | `native/win/x64` |
+| [duckdb-cli-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-arm64.tar.gz) | 17.4 MiB | `native/win/arm64` |
+| [duckdb-shared-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64-musl.tar.gz) | 24.8 MiB | `native/linux/x64/musl` |
+| [duckdb-shared-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64.tar.gz) | 26.6 MiB | `native/linux/x64` |
+| [duckdb-shared-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-arm64-musl.tar.gz) | 22.9 MiB | `native/linux/arm64/musl` |
+| [duckdb-shared-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-arm64.tar.gz) | 24.5 MiB | `native/linux/arm64` |
+| [duckdb-shared-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-amd64.tar.gz) | 20.4 MiB | `native/darwin/x64` |
+| [duckdb-shared-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-arm64.tar.gz) | 18.2 MiB | `native/darwin/arm64` |
+| [duckdb-shared-libs-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-universal.tar.gz) | 38.5 MiB | `native/darwin/x64` |
+| [duckdb-shared-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-amd64.tar.gz) | 18.9 MiB | `native/win/x64` |
+| [duckdb-shared-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-arm64.tar.gz) | 17.5 MiB | `native/win/arm64` |
+| [duckdb-static-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64-musl.tar.gz) | 34.5 MiB | `native/linux/x64/musl` |
+| [duckdb-static-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64.tar.gz) | 32.0 MiB | `native/linux/x64` |
+| [duckdb-static-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64-musl.tar.gz) | 33.0 MiB | `native/linux/arm64/musl` |
+| [duckdb-static-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64.tar.gz) | 28.9 MiB | `native/linux/arm64` |
+| [duckdb-static-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-amd64.tar.gz) | 29.1 MiB | `native/darwin/x64` |
+| [duckdb-static-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
+| [duckdb-static-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-amd64.tar.gz) | 49.4 MiB | `native/win/x64` |
+| [duckdb-static-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-arm64.tar.gz) | 46.6 MiB | `native/win/arm64` |
+| [duckdb-static-libs-windows-mingw.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-mingw.tar.gz) | 34.0 MiB | `native/win/x64` |
+| [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.0/libduckdb-src.zip) | 177.9 KiB | `other` |
 
 ## Improve this data
 
@@ -98,4 +97,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:22:07Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:27:33Z._
