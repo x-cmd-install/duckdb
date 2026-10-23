@@ -14,15 +14,15 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,286,253** lines of code across **5604** files in the top 5 languages.
+Total: **1,290,088** lines of code across **5615** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 774,675 | 67,507 | 96,580 | 2471 |
-| CppHeader | 254,743 | 42,674 | 39,348 | 1882 |
+| Cpp | 777,902 | 67,782 | 96,908 | 2479 |
+| CppHeader | 255,133 | 42,839 | 39,427 | 1885 |
 | CHeader | 83,078 | 58,194 | 14,589 | 456 |
 | Sql | 44,051 | 232 | 518 | 600 |
-| Python | 39,128 | 1,300 | 6,204 | 195 |
+| Python | 39,265 | 1,313 | 6,223 | 195 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,286,253** lines of code across **5604** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.0` (2026-10-21)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 42,370 · **Forks**: 4,012 · **Open issues**: 7,970 · **Contributors**: 733
+- **Stars**: 42,423 · **Forks**: 3,996 · **Open issues**: 8,009 · **Contributors**: 739
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 13126 · **Open PRs**: 383 · **Closed issues**: 7407 · **Open issues**: 563 · **Commits**: 89766
+- **Releases**: 65 · **Merged PRs**: 13163 · **Open PRs**: 382 · **Closed issues**: 7411 · **Open issues**: 598 · **Commits**: 90010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 736 | 206 | 129 | 164 | 3118 |
-| last60d | 2026-08-23 | 2 | 1349 | 284 | 309 | 213 | 6408 |
-| 90d | 2026-07-24 | 2 | 1746 | 344 | 503 | 259 | 8492 |
-| last180d | 2026-04-25 | 6 | 2852 | 382 | 802 | 348 | 14620 |
-| 360d | 2025-10-27 | 12 | 4468 | 383 | 1215 | 453 | 23718 |
-| last720d | 2024-11-01 | 21 | 6807 | 383 | 2336 | 525 | 39352 |
+| 30d | 2026-09-23 | 2 | 741 | 199 | 116 | 192 | 3353 |
+| last60d | 2026-08-24 | 2 | 1374 | 282 | 306 | 246 | 6645 |
+| 90d | 2026-07-25 | 2 | 1777 | 342 | 506 | 293 | 8729 |
+| last180d | 2026-04-26 | 6 | 2886 | 381 | 806 | 383 | 14857 |
+| 360d | 2025-10-28 | 12 | 4493 | 382 | 1218 | 488 | 23955 |
+| last720d | 2024-11-02 | 21 | 6843 | 382 | 2339 | 560 | 39559 |
 
 ## Release assets
 
@@ -88,6 +88,20 @@ Total: **1,286,253** lines of code across **5604** files in the top 5 languages.
 | [duckdb-static-libs-windows-mingw.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-mingw.tar.gz) | 34.0 MiB | `native/win/x64` |
 | [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.0/libduckdb-src.zip) | 177.9 KiB | `other` |
 
+## Distribution status
+
+Reported by **81** distros on [repology.org](https://repology.org/project/duckdb). **8** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.5.5` | ⚠️ outdated |
+| Debian 14 | `1.5.5` | ⚠️ outdated |
+| Arch | `1.5.6` | ⚠️ outdated |
+| Homebrew | `2.0.0` | ✅ latest |
+| Nix unstable | `1.5.5` | ⚠️ outdated |
+| Void | `1.5.6` | ⚠️ outdated |
+| Alpine edge | `1.5.6` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `duckdb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +111,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:27:33Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:26:48Z._
