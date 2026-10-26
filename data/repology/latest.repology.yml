@@ -1,75 +1,34 @@
-- repo: xrepo
+- repo: parabola
+  subrepo: extra
   srcname: duckdb
-  visiblename: duckdb
-  version: 1.5.5
-  origversion: null
+  binname: python-duckdb
+  visiblename: python-duckdb
+  version: 1.5.6
+  origversion: 1.5.6-1
   status: outdated
-  summary: DuckDB is an in-process SQL OLAP Database Management System
+  summary: An analytical in-process SQL database management system Python API
   licenses:
     - MIT
-- repo: vcpkg
+- repo: openpkg_current
   srcname: duckdb
   visiblename: duckdb
-  version: 1.5.6
+  version: 1.4.3
   origversion: null
   status: outdated
-  summary: High-performance in-process analytical database system
-- repo: nix_stable_24_11
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.1.3
-  origversion: null
-  status: outdated
-  summary: Embeddable SQL OLAP Database Management System
-  maintainers:
-    - chris.ostrouchov@gmail.com
-    - cpcloud@github
+  summary: Embedded OLAP Database
   licenses:
     - MIT
-- repo: pkgsrc_current
-  srcname: databases/duckdb
-  binname: duckdb
-  visiblename: databases/duckdb
-  version: 1.5.6
-  origversion: null
-  status: outdated
-  summary: In-process SQL OLAP database management system
-  maintainers:
-    - ryoon@netbsd.org
   categories:
-    - databases
-- repo: nix_stable_25_05
+    - Database
+- repo: parabola
+  subrepo: extra
   srcname: duckdb
+  binname: duckdb
   visiblename: duckdb
-  version: 1.2.2
-  origversion: null
+  version: 1.5.6
+  origversion: 1.5.6-1
   status: outdated
-  summary: Embeddable SQL OLAP Database Management System
-  maintainers:
-    - chris.ostrouchov@gmail.com
-    - cpcloud@github
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: duckdb
-  binname: duckdb-devel
-  visiblename: duckdb-devel
-  version: 1.5.4
-  origversion: 1.5.4-r0
-  status: outdated
-  summary: High-performance analytical database system (development files)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: duckdb
-  binname: duckdb-devel-static
-  visiblename: duckdb-devel-static
-  version: 1.5.4
-  origversion: 1.5.4-r0
-  status: outdated
-  summary: High-performance analytical database system (development files) (static libraries)
+  summary: An analytical in-process SQL database management system
   licenses:
     - MIT
 - repo: alpine_edge
@@ -111,6 +70,18 @@
     - badfunkstripe@gmail.com
   licenses:
     - MIT
+- repo: openbsd
+  srcname: databases/duckdb
+  binname: duckdb
+  visiblename: databases/duckdb
+  version: 1.5.5
+  origversion: null
+  status: outdated
+  summary: fast in-process analytical database
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - databases
 - repo: alpine_edge
   subrepo: testing
   srcname: duckdb
@@ -192,6 +163,28 @@
 - repo: chimera
   subrepo: user
   srcname: duckdb
+  binname: duckdb-devel
+  visiblename: duckdb-devel
+  version: 1.5.4
+  origversion: 1.5.4-r0
+  status: outdated
+  summary: High-performance analytical database system (development files)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: duckdb
+  binname: duckdb-devel-static
+  visiblename: duckdb-devel-static
+  version: 1.5.4
+  origversion: 1.5.4-r0
+  status: outdated
+  summary: High-performance analytical database system (development files) (static libraries)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: duckdb
   binname: duckdb-doc
   visiblename: duckdb-doc
   version: 1.5.4
@@ -203,9 +196,9 @@
 - repo: chocolatey
   binname: duckdb
   visiblename: DuckDB (Portable)
-  version: 1.5.6
+  version: 2.0.0
   origversion: null
-  status: outdated
+  status: newest
   summary: DuckDB is an analytical in-process SQL database management system
 - repo: conancenter
   srcname: duckdb
@@ -517,6 +510,30 @@
   summary: An in-process SQL OLAP Database Management System (mingw-w64)
   licenses:
     - spdx:MIT
+- repo: nix_stable_24_11
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.1.3
+  origversion: null
+  status: outdated
+  summary: Embeddable SQL OLAP Database Management System
+  maintainers:
+    - chris.ostrouchov@gmail.com
+    - cpcloud@github
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Embeddable SQL OLAP Database Management System
+  maintainers:
+    - chris.ostrouchov@gmail.com
+    - cpcloud@github
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: duckdb
   visiblename: duckdb
@@ -555,51 +572,6 @@
     - cpcloud@github
   licenses:
     - MIT
-- repo: openbsd
-  srcname: databases/duckdb
-  binname: duckdb
-  visiblename: databases/duckdb
-  version: 1.5.5
-  origversion: null
-  status: outdated
-  summary: fast in-process analytical database
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - databases
-- repo: openpkg_current
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.4.3
-  origversion: null
-  status: outdated
-  summary: Embedded OLAP Database
-  licenses:
-    - MIT
-  categories:
-    - Database
-- repo: parabola
-  subrepo: extra
-  srcname: duckdb
-  binname: python-duckdb
-  visiblename: python-duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system Python API
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: duckdb
-  binname: duckdb
-  visiblename: duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system
-  licenses:
-    - MIT
 - repo: pkgsrc_2026_2
   srcname: databases/duckdb
   binname: duckdb
@@ -617,6 +589,18 @@
   binname: duckdb
   visiblename: databases/duckdb
   version: 1.5.5
+  origversion: null
+  status: outdated
+  summary: In-process SQL OLAP database management system
+  maintainers:
+    - ryoon@netbsd.org
+  categories:
+    - databases
+- repo: pkgsrc_current
+  srcname: databases/duckdb
+  binname: duckdb
+  visiblename: databases/duckdb
+  version: 1.5.6
   origversion: null
   status: outdated
   summary: In-process SQL OLAP database management system
@@ -687,6 +671,13 @@
     - domibel@debian.org
   categories:
     - universe/database
+- repo: vcpkg
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.5.6
+  origversion: null
+  status: outdated
+  summary: High-performance in-process analytical database system
 - repo: void_x86_64
   subrepo: x86_64
   srcname: duckdb
@@ -837,13 +828,12 @@
 - repo: xrepo
   srcname: duckdb
   visiblename: duckdb
-  version: 1.4.1
+  version: 1.5.5
   origversion: null
-  status: legacy
+  status: outdated
   summary: DuckDB is an in-process SQL OLAP Database Management System
   licenses:
     - MIT
-  vulnerable: true
 - repo: nix_stable_24_05
   srcname: duckdb
   visiblename: duckdb
@@ -911,6 +901,16 @@
   srcname: duckdb
   visiblename: duckdb
   version: 1.4.0
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.4.1
   origversion: null
   status: legacy
   summary: DuckDB is an in-process SQL OLAP Database Management System
