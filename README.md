@@ -38,22 +38,22 @@ Total: **1,291,394** lines of code across **5619** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,504 · **Forks**: 4,013 · **Open issues**: 8,044 · **Contributors**: 739
+- **Stars**: 42,557 · **Forks**: 4,029 · **Open issues**: 8,054 · **Contributors**: 739
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 13177 · **Open PRs**: 413 · **Closed issues**: 7418 · **Open issues**: 626 · **Commits**: 90066
+- **Releases**: 65 · **Merged PRs**: 13177 · **Open PRs**: 433 · **Closed issues**: 7423 · **Open issues**: 631 · **Commits**: 90066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 716 | 223 | 112 | 216 | 2906 |
-| last60d | 2026-08-26 | 2 | 1364 | 311 | 305 | 273 | 6009 |
-| 90d | 2026-07-27 | 2 | 1770 | 367 | 501 | 322 | 8253 |
-| last180d | 2026-04-28 | 6 | 2861 | 412 | 802 | 412 | 14351 |
-| 360d | 2025-10-30 | 12 | 4482 | 413 | 1221 | 516 | 23564 |
-| last720d | 2024-11-04 | 21 | 6853 | 413 | 2340 | 587 | 39593 |
+| 30d | 2026-09-26 | 2 | 711 | 240 | 111 | 220 | 2906 |
+| last60d | 2026-08-27 | 2 | 1352 | 329 | 302 | 281 | 6009 |
+| 90d | 2026-07-28 | 2 | 1750 | 385 | 490 | 326 | 8253 |
+| last180d | 2026-04-29 | 6 | 2842 | 432 | 803 | 420 | 14351 |
+| 360d | 2025-10-31 | 12 | 4475 | 433 | 1221 | 522 | 23564 |
+| last720d | 2024-11-05 | 20 | 6843 | 433 | 2339 | 592 | 39555 |
 
 ## Release assets
 
@@ -90,7 +90,7 @@ Total: **1,291,394** lines of code across **5619** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/duckdb). **8** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/duckdb). **9** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:11:46Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:18:42Z._
