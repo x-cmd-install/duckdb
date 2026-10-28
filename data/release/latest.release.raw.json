@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22696135,
       "digest": "sha256:3285e4083a79955b0606ab799ebc1493087307cdc76b4827308b1a4dcdb371c9",
-      "download_count": 539,
+      "download_count": 615,
       "created_at": "2026-10-21T13:10:32Z",
       "updated_at": "2026-10-21T13:10:34Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64-musl.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24424037,
       "digest": "sha256:c6507206baf7793c6013dbd82368469a45f20dc0e17a6f92f204602f652ed2bc",
-      "download_count": 8853,
+      "download_count": 11142,
       "created_at": "2026-10-21T13:10:35Z",
       "updated_at": "2026-10-21T13:10:36Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 20724107,
       "digest": "sha256:59aee3049c335917307f5df1b3722af1335fef99199dc89e8064d1b2838620c7",
-      "download_count": 241,
+      "download_count": 260,
       "created_at": "2026-10-21T13:10:37Z",
       "updated_at": "2026-10-21T13:10:39Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22306407,
       "digest": "sha256:859e1875d2a9515fbb4bf8871061437a14af82320da68c753f094c4b776348fe",
-      "download_count": 1702,
+      "download_count": 2070,
       "created_at": "2026-10-21T13:10:39Z",
       "updated_at": "2026-10-21T13:10:41Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21471922,
       "digest": "sha256:fbc7013ba09d117396dabf16783281c2add47fc01cdac4855464a03526dc96ee",
-      "download_count": 87,
+      "download_count": 115,
       "created_at": "2026-10-21T13:10:41Z",
       "updated_at": "2026-10-21T13:10:42Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19169633,
       "digest": "sha256:188a36fe8883ef52e69165a0cbb6031ef679c8e6c448a1ce22951964149b7f96",
-      "download_count": 1379,
+      "download_count": 1657,
       "created_at": "2026-10-21T13:10:43Z",
       "updated_at": "2026-10-21T13:10:45Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 40639690,
       "digest": "sha256:8a8f67e7c7f7d1392fa63ba3971948391392fe2a25fca63e7008e33c50beb4c2",
-      "download_count": 324,
+      "download_count": 368,
       "created_at": "2026-10-21T13:10:46Z",
       "updated_at": "2026-10-21T13:10:48Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-universal.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 19663611,
       "digest": "sha256:91663c2f36c2a334b0e5e639006d8c29c29e013af0c477d80bb931df68870312",
-      "download_count": 2326,
+      "download_count": 2650,
       "created_at": "2026-10-21T13:10:48Z",
       "updated_at": "2026-10-21T13:10:49Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18241206,
       "digest": "sha256:4b5d1e4611debf676a693a8a6896dc29b352a9c3b11b706e7421d1d6082e05fd",
-      "download_count": 60,
+      "download_count": 81,
       "created_at": "2026-10-21T13:10:50Z",
       "updated_at": "2026-10-21T13:10:52Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 25964369,
       "digest": "sha256:af73c035c8bf50e546fae135f2ac18e67e485ae40c0dbdc9b41666ef605939a1",
-      "download_count": 110,
+      "download_count": 132,
       "created_at": "2026-10-21T13:10:52Z",
       "updated_at": "2026-10-21T13:10:54Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64-musl.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 27841656,
       "digest": "sha256:993ad89e7dfca66cd6da994c2cad090c2fc160ddf9f550498a098ab4bb13cfb1",
-      "download_count": 6119,
+      "download_count": 8189,
       "created_at": "2026-10-21T13:10:54Z",
       "updated_at": "2026-10-21T13:10:56Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 25735927,
       "digest": "sha256:c60eecf91143ca6bbac55c4f4d40dc22520488b0ac257c86e0fe9a2b451cf2b7",
-      "download_count": 1154,
+      "download_count": 1489,
       "created_at": "2026-10-21T13:11:00Z",
       "updated_at": "2026-10-21T13:11:02Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 21415428,
       "digest": "sha256:98fef9fcad856555ca0403fe4d9d6680acfd26c67e8c6f004d61a248d6bc0eff",
-      "download_count": 303,
+      "download_count": 448,
       "created_at": "2026-10-21T13:11:02Z",
       "updated_at": "2026-10-21T13:11:04Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 19130734,
       "digest": "sha256:c35d60080b31ba5d11a3ce505a6831be784f003b4c575d32a4c2badb3b41cdf0",
-      "download_count": 504,
+      "download_count": 682,
       "created_at": "2026-10-21T13:11:04Z",
       "updated_at": "2026-10-21T13:11:06Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 40361654,
       "digest": "sha256:14cd63180614cfd961f7959146ecd9087527ff20b67311efdc3fa1c29c18204d",
-      "download_count": 800,
+      "download_count": 1042,
       "created_at": "2026-10-21T13:11:06Z",
       "updated_at": "2026-10-21T13:11:08Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-universal.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 19833650,
       "digest": "sha256:2b83169128239de5f45fe21de80f99bf436e53aa4bb24020dd951a1ba8d4b95f",
-      "download_count": 2309,
+      "download_count": 3183,
       "created_at": "2026-10-21T13:11:09Z",
       "updated_at": "2026-10-21T13:11:10Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 18389170,
       "digest": "sha256:159ce60eb587112b8c5f290b8beea56af5f13be4d13679de127ad9bfaafb7447",
-      "download_count": 95,
+      "download_count": 114,
       "created_at": "2026-10-21T13:11:10Z",
       "updated_at": "2026-10-21T13:11:12Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 36222666,
       "digest": "sha256:2f783d69fc8713cf8482577fcde7e000f487997908feb9ef20ad35a3a642f59c",
-      "download_count": 31,
+      "download_count": 35,
       "created_at": "2026-10-21T13:11:12Z",
       "updated_at": "2026-10-21T13:11:14Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64-musl.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 33584665,
       "digest": "sha256:112d62c980f5447cd303a70b3dacbc09acd41ccb4ef6d154e8629f543a0f8568",
-      "download_count": 881,
+      "download_count": 1000,
       "created_at": "2026-10-21T13:11:15Z",
       "updated_at": "2026-10-21T13:11:17Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 34571080,
       "digest": "sha256:988bd2dbe05a115ee45ec97dd29b405ca59d54999fca712d7230d0b8ff930c44",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-10-21T13:11:17Z",
       "updated_at": "2026-10-21T13:11:19Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64-musl.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 30303049,
       "digest": "sha256:8171b4842e68a85b2e82b342d3bf7b542a88fd6666e0c18438d7b459012494ee",
-      "download_count": 326,
+      "download_count": 352,
       "created_at": "2026-10-21T13:11:20Z",
       "updated_at": "2026-10-21T13:11:22Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30479861,
       "digest": "sha256:7e6101ddc8de73e8dcc66f790e658e07891165d026992b40ceba20e50b01f8ec",
-      "download_count": 72,
+      "download_count": 77,
       "created_at": "2026-10-21T13:11:22Z",
       "updated_at": "2026-10-21T13:11:24Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-amd64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 29034230,
       "digest": "sha256:c3a571e6d4a0da97534c631df463ab13c07f8cf78049625f5df936b7beaab9ce",
-      "download_count": 332,
+      "download_count": 365,
       "created_at": "2026-10-21T13:11:24Z",
       "updated_at": "2026-10-21T13:11:26Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 51813090,
       "digest": "sha256:9a7e2c1200209ea70cdf4535aa3fdf581c3a141137569462ed7b555cde49b112",
-      "download_count": 175,
+      "download_count": 187,
       "created_at": "2026-10-21T13:11:27Z",
       "updated_at": "2026-10-21T13:11:31Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 48894661,
       "digest": "sha256:1f9ec424605b798003e9cb558d95ec70e334ad4f53260679c7cc3934bcc06dd1",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-21T13:11:31Z",
       "updated_at": "2026-10-21T13:11:34Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 35620909,
       "digest": "sha256:b900706bcd5501b94c90b86a23b941a18fa1a73094d414f5ca7e7637cfd9ceea",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-10-21T13:11:35Z",
       "updated_at": "2026-10-21T13:11:37Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-mingw.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 182166,
       "digest": "sha256:d8fd3301aa01c2425475b153daf57d4a88d361eb09756575551a7a274da9cc16",
-      "download_count": 119,
+      "download_count": 133,
       "created_at": "2026-10-21T13:11:38Z",
       "updated_at": "2026-10-21T13:11:38Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.0/libduckdb-src.zip"
