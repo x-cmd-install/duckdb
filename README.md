@@ -38,22 +38,22 @@ Total: **1,308,337** lines of code across **5652** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 42,724 · **Forks**: 4,148 · **Open issues**: 8,136 · **Contributors**: 743
+- **Stars**: 42,734 · **Forks**: 4,169 · **Open issues**: 8,143 · **Contributors**: 744
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 13341 · **Open PRs**: 487 · **Closed issues**: 7468 · **Open issues**: 668 · **Commits**: 91066
+- **Releases**: 65 · **Merged PRs**: 13342 · **Open PRs**: 495 · **Closed issues**: 7469 · **Open issues**: 674 · **Commits**: 91066
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 763 | 286 | 107 | 248 | 2934 |
-| last60d | 2026-09-02 | 2 | 1377 | 374 | 291 | 315 | 6237 |
-| 90d | 2026-08-03 | 2 | 1812 | 433 | 447 | 347 | 8803 |
-| last180d | 2026-05-05 | 6 | 2943 | 486 | 836 | 455 | 14965 |
-| 360d | 2025-11-06 | 12 | 4575 | 487 | 1252 | 559 | 24229 |
-| last720d | 2024-11-11 | 20 | 6982 | 487 | 2360 | 628 | 40309 |
+| 30d | 2026-10-03 | 1 | 752 | 294 | 106 | 252 | 2934 |
+| last60d | 2026-09-03 | 2 | 1358 | 382 | 280 | 319 | 6237 |
+| 90d | 2026-08-04 | 2 | 1797 | 441 | 447 | 353 | 8803 |
+| last180d | 2026-05-06 | 6 | 2935 | 494 | 836 | 461 | 14965 |
+| 360d | 2025-11-07 | 12 | 4571 | 495 | 1250 | 565 | 24229 |
+| last720d | 2024-11-12 | 20 | 6979 | 495 | 2360 | 634 | 40255 |
 
 ## Release assets
 
@@ -90,11 +90,11 @@ Total: **1,308,337** lines of code across **5652** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **87** distros on [repology.org](https://repology.org/project/duckdb). **13** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+Reported by **77** distros on [repology.org](https://repology.org/project/duckdb). **13** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `1.5.5` | 🪦 legacy |
+| Debian unstable | `2.0.0` | ✅ latest |
 | Debian 14 | `2.0.0` | ✅ latest |
 | Arch | `1.5.6` | ⚠️ outdated |
 | Homebrew | `2.0.0` | ✅ latest |
@@ -111,4 +111,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:52:51Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:42:48Z._
