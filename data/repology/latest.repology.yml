@@ -9,29 +9,23 @@
     - teaguesterling@spack
   licenses:
     - MIT
-- repo: spack
+- repo: xrepo
   srcname: duckdb
   visiblename: duckdb
-  version: 1.5.2
+  version: 1.5.4
   origversion: null
-  status: outdated
-  maintainers:
-    - glentner@spack
-    - teaguesterling@spack
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
   licenses:
     - MIT
   vulnerable: true
-- repo: chimera
-  subrepo: user
+- repo: vcpkg
   srcname: duckdb
-  binname: duckdb
   visiblename: duckdb
-  version: 1.5.4
-  origversion: 1.5.4-r0
+  version: 1.5.6
+  origversion: null
   status: outdated
-  summary: High-performance analytical database system
-  licenses:
-    - MIT
+  summary: High-performance in-process analytical database system
   vulnerable: true
 - repo: alpine_edge
   subrepo: community
@@ -126,18 +120,6 @@
 - repo: arch
   subrepo: extra
   srcname: duckdb
-  binname: duckdb
-  visiblename: duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: arch
-  subrepo: extra
-  srcname: duckdb
   binname: python-duckdb
   visiblename: python-duckdb
   version: 1.5.6
@@ -147,22 +129,29 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: kali_rolling
-  subrepo: main
+- repo: arch
+  subrepo: extra
   srcname: duckdb
-  binnames:
-    - duckdb
-    - libduckdb1.5
-    - libduckdb-dev
+  binname: duckdb
   visiblename: duckdb
-  version: 1.5.5
-  origversion: 1.5.5-3
+  version: 1.5.6
+  origversion: 1.5.6-1
   status: outdated
-  maintainers:
-    - debian-science-maintainers@lists.alioth.debian.org
-    - domibel@debian.org
-  categories:
-    - database
+  summary: An analytical in-process SQL database management system
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: chimera
+  subrepo: user
+  srcname: duckdb
+  binname: duckdb
+  visiblename: duckdb
+  version: 1.5.4
+  origversion: 1.5.4-r0
+  status: outdated
+  summary: High-performance analytical database system
+  licenses:
+    - MIT
   vulnerable: true
 - repo: chimera
   subrepo: user
@@ -173,6 +162,19 @@
   origversion: 1.5.4-r0
   status: outdated
   summary: High-performance analytical database system (development files)
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: nix_stable_25_05
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.2.2
+  origversion: null
+  status: outdated
+  summary: Embeddable SQL OLAP Database Management System
+  maintainers:
+    - chris.ostrouchov@gmail.com
+    - cpcloud@github
   licenses:
     - MIT
   vulnerable: true
@@ -231,19 +233,6 @@
     - domibel@debian.org
   categories:
     - database
-  vulnerable: true
-- repo: nix_stable_25_05
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.2.2
-  origversion: null
-  status: outdated
-  summary: Embeddable SQL OLAP Database Management System
-  maintainers:
-    - chris.ostrouchov@gmail.com
-    - cpcloud@github
-  licenses:
-    - MIT
   vulnerable: true
 - repo: debian_unstable
   subrepo: sid/main
@@ -349,6 +338,23 @@
   origversion: null
   status: newest
   summary: Embeddable SQL OLAP Database Management System
+  vulnerable: true
+- repo: kali_rolling
+  subrepo: main
+  srcname: duckdb
+  binnames:
+    - duckdb
+    - libduckdb1.5
+    - libduckdb-dev
+  visiblename: duckdb
+  version: 1.5.5
+  origversion: 1.5.5-3
+  status: outdated
+  maintainers:
+    - debian-science-maintainers@lists.alioth.debian.org
+    - domibel@debian.org
+  categories:
+    - database
   vulnerable: true
 - repo: liguros_stable
   srcname: dev-db/duckdb
@@ -545,6 +551,16 @@
   licenses:
     - MIT
   vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.4.1
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
+  vulnerable: true
 - repo: nix_unstable
   srcname: duckdb
   visiblename: duckdb
@@ -674,6 +690,18 @@
   licenses:
     - MIT
   vulnerable: true
+- repo: spack
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.5.2
+  origversion: null
+  status: outdated
+  maintainers:
+    - glentner@spack
+    - teaguesterling@spack
+  licenses:
+    - MIT
+  vulnerable: true
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: duckdb
@@ -690,14 +718,6 @@
     - domibel@debian.org
   categories:
     - universe/database
-  vulnerable: true
-- repo: vcpkg
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.5.6
-  origversion: null
-  status: outdated
-  summary: High-performance in-process analytical database system
   vulnerable: true
 - repo: void_x86_64
   subrepo: x86_64
@@ -864,16 +884,6 @@
 - repo: xrepo
   srcname: duckdb
   visiblename: duckdb
-  version: 1.4.1
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
   version: 1.4.2
   origversion: null
   status: legacy
@@ -915,16 +925,6 @@
   srcname: duckdb
   visiblename: duckdb
   version: 1.5.2
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.5.4
   origversion: null
   status: legacy
   summary: DuckDB is an in-process SQL OLAP Database Management System
