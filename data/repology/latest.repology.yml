@@ -19,18 +19,50 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: nix_stable_25_11
+- repo: xrepo
   srcname: duckdb
   visiblename: duckdb
-  version: 1.4.3
+  version: 0.10.3
   origversion: null
-  status: outdated
-  summary: Embeddable SQL OLAP Database Management System
-  maintainers:
-    - chris.ostrouchov@gmail.com
-    - cpcloud@github
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
   licenses:
     - MIT
+  vulnerable: true
+- repo: chimera
+  subrepo: user
+  srcname: duckdb
+  binname: duckdb-doc
+  visiblename: duckdb-doc
+  version: 1.5.4
+  origversion: 1.5.4-r0
+  status: outdated
+  summary: High-performance analytical database system (documentation)
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: chocolatey
+  binname: duckdb
+  visiblename: DuckDB (Portable)
+  version: 2.0.0
+  origversion: null
+  status: newest
+  summary: DuckDB is an analytical in-process SQL database management system
+  vulnerable: true
+- repo: vcpkg
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.5.6
+  origversion: null
+  status: outdated
+  summary: High-performance in-process analytical database system
+  vulnerable: true
+- repo: conancenter
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.5.6
+  origversion: null
+  status: outdated
   vulnerable: true
 - repo: alpine_edge
   subrepo: community
@@ -57,16 +89,6 @@
   summary: High-performance analytical database system (development files)
   maintainers:
     - badfunkstripe@gmail.com
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.4.1
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
   licenses:
     - MIT
   vulnerable: true
@@ -135,24 +157,24 @@
 - repo: arch
   subrepo: extra
   srcname: duckdb
-  binname: python-duckdb
-  visiblename: python-duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system Python API
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: arch
-  subrepo: extra
-  srcname: duckdb
   binname: duckdb
   visiblename: duckdb
   version: 1.5.6
   origversion: 1.5.6-1
   status: outdated
   summary: An analytical in-process SQL database management system
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: arch
+  subrepo: extra
+  srcname: duckdb
+  binname: python-duckdb
+  visiblename: python-duckdb
+  version: 1.5.6
+  origversion: 1.5.6-1
+  status: outdated
+  summary: An analytical in-process SQL database management system Python API
   licenses:
     - MIT
   vulnerable: true
@@ -192,33 +214,6 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: chimera
-  subrepo: user
-  srcname: duckdb
-  binname: duckdb-doc
-  visiblename: duckdb-doc
-  version: 1.5.4
-  origversion: 1.5.4-r0
-  status: outdated
-  summary: High-performance analytical database system (documentation)
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: chocolatey
-  binname: duckdb
-  visiblename: DuckDB (Portable)
-  version: 2.0.0
-  origversion: null
-  status: newest
-  summary: DuckDB is an analytical in-process SQL database management system
-  vulnerable: true
-- repo: conancenter
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.4.3
-  origversion: null
-  status: outdated
-  vulnerable: true
 - repo: debian_14
   subrepo: forky/main
   srcname: duckdb
@@ -235,16 +230,6 @@
     - domibel@debian.org
   categories:
     - database
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.4.2
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
   vulnerable: true
 - repo: debian_unstable
   subrepo: sid/main
@@ -293,16 +278,6 @@
   categories:
     - dev-db
   vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 1.2.1
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: freebsd
   srcname: databases/duckdb
   binname: duckdb
@@ -329,6 +304,16 @@
     - MIT
   categories:
     - dev-db
+  vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.2.1
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
   vulnerable: true
 - repo: gentoo
   srcname: dev-db/duckdb
@@ -466,36 +451,24 @@
 - repo: manjaro_stable
   subrepo: extra
   srcname: duckdb
-  binname: duckdb
-  visiblename: duckdb
+  binname: python-duckdb
+  visiblename: python-duckdb
   version: 1.5.6
   origversion: 1.5.6-1
   status: outdated
-  summary: An analytical in-process SQL database management system
+  summary: An analytical in-process SQL database management system Python API
   licenses:
     - MIT
   vulnerable: true
 - repo: manjaro_stable
   subrepo: extra
   srcname: duckdb
-  binname: python-duckdb
-  visiblename: python-duckdb
+  binname: duckdb
+  visiblename: duckdb
   version: 1.5.6
   origversion: 1.5.6-1
   status: outdated
-  summary: An analytical in-process SQL database management system Python API
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: duckdb
-  binname: python-duckdb
-  visiblename: python-duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system Python API
+  summary: An analytical in-process SQL database management system
   licenses:
     - MIT
   vulnerable: true
@@ -508,6 +481,18 @@
   origversion: 1.5.6-1
   status: outdated
   summary: An analytical in-process SQL database management system
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: duckdb
+  binname: python-duckdb
+  visiblename: python-duckdb
+  version: 1.5.6
+  origversion: 1.5.6-1
+  status: outdated
+  summary: An analytical in-process SQL database management system Python API
   licenses:
     - MIT
   vulnerable: true
@@ -545,6 +530,16 @@
   summary: An in-process SQL OLAP Database Management System (mingw-w64)
   licenses:
     - spdx:MIT
+  vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 0.10.2
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
   vulnerable: true
 - repo: msys2_clangarm64
   srcname: mingw-w64-duckdb
@@ -607,6 +602,19 @@
   licenses:
     - MIT
   vulnerable: true
+- repo: nix_stable_25_11
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.4.3
+  origversion: null
+  status: outdated
+  summary: Embeddable SQL OLAP Database Management System
+  maintainers:
+    - chris.ostrouchov@gmail.com
+    - cpcloud@github
+  licenses:
+    - MIT
+  vulnerable: true
 - repo: nix_stable_26_05
   srcname: duckdb
   visiblename: duckdb
@@ -651,24 +659,24 @@
 - repo: parabola
   subrepo: extra
   srcname: duckdb
-  binname: duckdb
-  visiblename: duckdb
-  version: 1.5.6
-  origversion: 1.5.6-1
-  status: outdated
-  summary: An analytical in-process SQL database management system
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: parabola
-  subrepo: extra
-  srcname: duckdb
   binname: python-duckdb
   visiblename: python-duckdb
   version: 1.5.6
   origversion: 1.5.6-1
   status: outdated
   summary: An analytical in-process SQL database management system Python API
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: parabola
+  subrepo: extra
+  srcname: duckdb
+  binname: duckdb
+  visiblename: duckdb
+  version: 1.5.6
+  origversion: 1.5.6-1
+  status: outdated
+  summary: An analytical in-process SQL database management system
   licenses:
     - MIT
   vulnerable: true
@@ -784,13 +792,19 @@
   categories:
     - universe/database
   vulnerable: true
-- repo: vcpkg
+- repo: void_x86_64
+  subrepo: x86_64
   srcname: duckdb
-  visiblename: duckdb
+  binname: python3-duckdb
+  visiblename: python3-duckdb
   version: 1.5.6
-  origversion: null
+  origversion: 1.5.6_1
   status: outdated
-  summary: High-performance in-process analytical database system
+  summary: In-process SQL OLAP database management system - python bindings
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - MIT
   vulnerable: true
 - repo: void_x86_64
   subrepo: x86_64
@@ -820,20 +834,6 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: duckdb
-  binname: python3-duckdb
-  visiblename: python3-duckdb
-  version: 1.5.6
-  origversion: 1.5.6_1
-  status: outdated
-  summary: In-process SQL OLAP database management system - python bindings
-  maintainers:
-    - pangolin@vivaldi.net
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: xrepo
   srcname: duckdb
   visiblename: duckdb
@@ -848,26 +848,6 @@
   srcname: duckdb
   visiblename: duckdb
   version: 0.10.1
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 0.10.2
-  origversion: null
-  status: legacy
-  summary: DuckDB is an in-process SQL OLAP Database Management System
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: xrepo
-  srcname: duckdb
-  visiblename: duckdb
-  version: 0.10.3
   origversion: null
   status: legacy
   summary: DuckDB is an in-process SQL OLAP Database Management System
@@ -928,6 +908,26 @@
   srcname: duckdb
   visiblename: duckdb
   version: 1.4.0
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.4.1
+  origversion: null
+  status: legacy
+  summary: DuckDB is an in-process SQL OLAP Database Management System
+  licenses:
+    - MIT
+  vulnerable: true
+- repo: xrepo
+  srcname: duckdb
+  visiblename: duckdb
+  version: 1.4.2
   origversion: null
   status: legacy
   summary: DuckDB is an in-process SQL OLAP Database Management System
