@@ -38,22 +38,22 @@ Total: **1,334,690** lines of code across **5725** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 43,078 · **Forks**: 4,203 · **Open issues**: 8,231 · **Contributors**: 760
+- **Stars**: 43,098 · **Forks**: 4,207 · **Open issues**: 8,234 · **Contributors**: 760
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 13714 · **Open PRs**: 542 · **Closed issues**: 7548 · **Open issues**: 683 · **Commits**: 93845
+- **Releases**: 65 · **Merged PRs**: 13714 · **Open PRs**: 545 · **Closed issues**: 7549 · **Open issues**: 685 · **Commits**: 93845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 620 | 315 | 118 | 234 | 2761 |
-| last60d | 2026-09-16 | 2 | 1443 | 406 | 273 | 321 | 7325 |
-| 90d | 2026-08-17 | 2 | 2019 | 468 | 447 | 358 | 10574 |
-| last180d | 2026-05-19 | 6 | 3157 | 541 | 869 | 467 | 16789 |
-| 360d | 2025-11-20 | 11 | 4847 | 542 | 1302 | 572 | 26124 |
-| last720d | 2024-11-25 | 20 | 7280 | 542 | 2393 | 641 | 42600 |
+| 30d | 2026-10-17 | 1 | 615 | 317 | 117 | 231 | 2761 |
+| last60d | 2026-09-17 | 2 | 1416 | 403 | 269 | 316 | 7325 |
+| 90d | 2026-08-18 | 2 | 1991 | 467 | 441 | 358 | 10574 |
+| last180d | 2026-05-20 | 6 | 3144 | 544 | 867 | 467 | 16789 |
+| 360d | 2025-11-21 | 11 | 4843 | 545 | 1299 | 573 | 26124 |
+| last720d | 2024-11-26 | 20 | 7274 | 545 | 2389 | 643 | 42529 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:14:48Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:41:34Z._
