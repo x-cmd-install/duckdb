@@ -14,15 +14,15 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,356,081** lines of code across **5763** files in the top 5 languages.
+Total: **1,355,985** lines of code across **5705** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 832,859 | 71,755 | 100,080 | 2574 |
-| CppHeader | 260,836 | 45,123 | 40,362 | 1918 |
-| CHeader | 83,531 | 58,903 | 14,636 | 457 |
+| Cpp | 832,503 | 71,665 | 99,727 | 2546 |
+| CppHeader | 260,291 | 44,943 | 40,107 | 1888 |
+| CHeader | 83,713 | 59,280 | 14,676 | 457 |
 | Sql | 44,087 | 232 | 518 | 609 |
-| Python | 41,925 | 1,438 | 6,611 | 205 |
+| Python | 42,079 | 1,436 | 6,627 | 205 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,356,081** lines of code across **5763** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.0` (2026-10-21)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 28
 
 ## Popularity
 
-- **Stars**: 43,169 · **Forks**: 4,221 · **Open issues**: 8,262 · **Contributors**: 764
+- **Stars**: 43,200 · **Forks**: 4,228 · **Open issues**: 8,269 · **Contributors**: 767
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 13842 · **Open PRs**: 546 · **Closed issues**: 7560 · **Open issues**: 702 · **Commits**: 94737
+- **Releases**: 65 · **Merged PRs**: 13888 · **Open PRs**: 542 · **Closed issues**: 7575 · **Open issues**: 694 · **Commits**: 95019
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 682 | 300 | 107 | 220 | 3601 |
-| last60d | 2026-09-20 | 2 | 1500 | 394 | 269 | 333 | 8209 |
-| 90d | 2026-08-21 | 2 | 2083 | 458 | 446 | 373 | 11460 |
-| last180d | 2026-05-23 | 5 | 3240 | 545 | 867 | 483 | 17676 |
-| 360d | 2025-11-24 | 11 | 4950 | 546 | 1305 | 591 | 27011 |
-| last720d | 2024-11-29 | 20 | 7382 | 546 | 2395 | 659 | 43219 |
+| 30d | 2026-10-21 | 1 | 695 | 291 | 117 | 194 | 3873 |
+| last60d | 2026-09-21 | 2 | 1526 | 387 | 279 | 322 | 8481 |
+| 90d | 2026-08-22 | 2 | 2126 | 452 | 460 | 365 | 11732 |
+| last180d | 2026-05-24 | 5 | 3284 | 541 | 881 | 475 | 17948 |
+| 360d | 2025-11-25 | 11 | 4987 | 542 | 1318 | 581 | 27283 |
+| last720d | 2024-11-30 | 20 | 7408 | 542 | 2401 | 650 | 43464 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:45:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:55:27Z._
