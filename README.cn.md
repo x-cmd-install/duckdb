@@ -14,15 +14,15 @@ x install duckdb
 
 ## 代码洞察
 
-合计: **1,355,985** 行代码（覆盖前 5 种语言、共 **5705** 个文件）。
+合计: **1,357,467** 行代码（覆盖前 5 种语言、共 **5707** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 832,503 | 71,665 | 99,727 | 2546 |
-| CppHeader | 260,291 | 44,943 | 40,107 | 1888 |
-| CHeader | 83,713 | 59,280 | 14,676 | 457 |
+| Cpp | 833,561 | 71,672 | 99,787 | 2546 |
+| CppHeader | 260,579 | 44,984 | 40,145 | 1890 |
+| CHeader | 83,717 | 59,299 | 14,677 | 457 |
 | Sql | 44,087 | 232 | 518 | 609 |
-| Python | 42,079 | 1,436 | 6,627 | 205 |
+| Python | 42,168 | 1,439 | 6,640 | 205 |
 
 ## 源代码
 
@@ -32,72 +32,74 @@ x install duckdb
 
 ## 发布
 
-- **最新版本**: `v2.0.0` (2026-10-21)
+- **最新版本**: `v2.0.1` (2026-11-20)
 - **最近提交**: 2026-11-20
-- **Release 含资产**: 28 个
+- **Release 含资产**: 30 个
 
 ## 流行度
 
-- **Star**: 43,200 · **Fork**: 4,228 · **开放 issue**: 8,269 · **贡献者**: 767
+- **Star**: 43,216 · **Fork**: 4,169 · **开放 issue**: 8,278 · **贡献者**: 767
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 13888 · **开放 PR**: 542 · **已关闭 issue**: 7575 · **开放 issue**: 694 · **提交数**: 95019
+- **发布数**: 66 · **已合并 PR**: 13915 · **开放 PR**: 558 · **已关闭 issue**: 7580 · **开放 issue**: 698 · **提交数**: 95136
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 695 | 291 | 117 | 194 | 3873 |
-| last60d | 2026-09-21 | 2 | 1526 | 387 | 279 | 322 | 8481 |
-| 90d | 2026-08-22 | 2 | 2126 | 452 | 460 | 365 | 11732 |
-| last180d | 2026-05-24 | 5 | 3284 | 541 | 881 | 475 | 17948 |
-| 360d | 2025-11-25 | 11 | 4987 | 542 | 1318 | 581 | 27283 |
-| last720d | 2024-11-30 | 20 | 7408 | 542 | 2401 | 650 | 43464 |
+| 30d | 2026-10-22 | 1 | 700 | 299 | 105 | 173 | 3990 |
+| last60d | 2026-09-22 | 3 | 1526 | 401 | 278 | 325 | 8598 |
+| 90d | 2026-08-23 | 3 | 2143 | 468 | 461 | 370 | 11849 |
+| last180d | 2026-05-25 | 6 | 3309 | 557 | 878 | 479 | 18065 |
+| 360d | 2025-11-26 | 12 | 5000 | 558 | 1319 | 585 | 27400 |
+| last720d | 2024-12-01 | 21 | 7433 | 558 | 2398 | 655 | 43515 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [duckdb-cli-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64-musl.tar.gz) | 21.6 MiB | `native/linux/x64/musl` |
-| [duckdb-cli-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-amd64.tar.gz) | 23.3 MiB | `native/linux/x64` |
-| [duckdb-cli-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64-musl.tar.gz) | 19.8 MiB | `native/linux/arm64/musl` |
-| [duckdb-cli-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-linux-arm64.tar.gz) | 21.3 MiB | `native/linux/arm64` |
-| [duckdb-cli-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-amd64.tar.gz) | 20.5 MiB | `native/darwin/x64` |
-| [duckdb-cli-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-arm64.tar.gz) | 18.3 MiB | `native/darwin/arm64` |
-| [duckdb-cli-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-osx-universal.tar.gz) | 38.8 MiB | `native/darwin/x64` |
-| [duckdb-cli-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-amd64.tar.gz) | 18.8 MiB | `native/win/x64` |
-| [duckdb-cli-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-cli-windows-arm64.tar.gz) | 17.4 MiB | `native/win/arm64` |
-| [duckdb-shared-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64-musl.tar.gz) | 24.8 MiB | `native/linux/x64/musl` |
-| [duckdb-shared-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-amd64.tar.gz) | 26.6 MiB | `native/linux/x64` |
-| [duckdb-shared-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-arm64-musl.tar.gz) | 22.9 MiB | `native/linux/arm64/musl` |
-| [duckdb-shared-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-linux-arm64.tar.gz) | 24.5 MiB | `native/linux/arm64` |
-| [duckdb-shared-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-amd64.tar.gz) | 20.4 MiB | `native/darwin/x64` |
-| [duckdb-shared-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-arm64.tar.gz) | 18.2 MiB | `native/darwin/arm64` |
-| [duckdb-shared-libs-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-osx-universal.tar.gz) | 38.5 MiB | `native/darwin/x64` |
-| [duckdb-shared-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-amd64.tar.gz) | 18.9 MiB | `native/win/x64` |
-| [duckdb-shared-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-shared-libs-windows-arm64.tar.gz) | 17.5 MiB | `native/win/arm64` |
-| [duckdb-static-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64-musl.tar.gz) | 34.5 MiB | `native/linux/x64/musl` |
-| [duckdb-static-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-amd64.tar.gz) | 32.0 MiB | `native/linux/x64` |
-| [duckdb-static-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64-musl.tar.gz) | 33.0 MiB | `native/linux/arm64/musl` |
-| [duckdb-static-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-linux-arm64.tar.gz) | 28.9 MiB | `native/linux/arm64` |
-| [duckdb-static-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-amd64.tar.gz) | 29.1 MiB | `native/darwin/x64` |
-| [duckdb-static-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-osx-arm64.tar.gz) | 27.7 MiB | `native/darwin/arm64` |
-| [duckdb-static-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-amd64.tar.gz) | 49.4 MiB | `native/win/x64` |
-| [duckdb-static-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-arm64.tar.gz) | 46.6 MiB | `native/win/arm64` |
-| [duckdb-static-libs-windows-mingw.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.0/duckdb-static-libs-windows-mingw.tar.gz) | 34.0 MiB | `native/win/x64` |
-| [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.0/libduckdb-src.zip) | 177.9 KiB | `other` |
+| [duckdb-cli-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-amd64-musl.tar.gz) | 22.2 MiB | `native/linux/x64/musl` |
+| [duckdb-cli-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-amd64.tar.gz) | 23.6 MiB | `native/linux/x64` |
+| [duckdb-cli-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64-musl.tar.gz) | 20.1 MiB | `native/linux/arm64/musl` |
+| [duckdb-cli-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64.tar.gz) | 21.6 MiB | `native/linux/arm64` |
+| [duckdb-cli-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-amd64.tar.gz) | 20.7 MiB | `native/darwin/x64` |
+| [duckdb-cli-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-arm64.tar.gz) | 18.5 MiB | `native/darwin/arm64` |
+| [duckdb-cli-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-universal.tar.gz) | 39.1 MiB | `native/darwin/x64` |
+| [duckdb-cli-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-amd64.tar.gz) | 19.0 MiB | `native/win/x64` |
+| [duckdb-cli-windows-amd64.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-amd64.zip) | 19.0 MiB | `native/win/x64` |
+| [duckdb-cli-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.tar.gz) | 17.7 MiB | `native/win/arm64` |
+| [duckdb-cli-windows-arm64.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.zip) | 17.7 MiB | `native/win/arm64` |
+| [duckdb-shared-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-amd64-musl.tar.gz) | 25.3 MiB | `native/linux/x64/musl` |
+| [duckdb-shared-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-amd64.tar.gz) | 26.9 MiB | `native/linux/x64` |
+| [duckdb-shared-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-arm64-musl.tar.gz) | 23.3 MiB | `native/linux/arm64/musl` |
+| [duckdb-shared-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-arm64.tar.gz) | 24.9 MiB | `native/linux/arm64` |
+| [duckdb-shared-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-amd64.tar.gz) | 20.6 MiB | `native/darwin/x64` |
+| [duckdb-shared-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-arm64.tar.gz) | 18.4 MiB | `native/darwin/arm64` |
+| [duckdb-shared-libs-osx-universal.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-universal.tar.gz) | 38.9 MiB | `native/darwin/x64` |
+| [duckdb-shared-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-windows-amd64.tar.gz) | 19.2 MiB | `native/win/x64` |
+| [duckdb-shared-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-windows-arm64.tar.gz) | 17.9 MiB | `native/win/arm64` |
+| [duckdb-static-libs-linux-amd64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-amd64-musl.tar.gz) | 34.8 MiB | `native/linux/x64/musl` |
+| [duckdb-static-libs-linux-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-amd64.tar.gz) | 32.5 MiB | `native/linux/x64` |
+| [duckdb-static-libs-linux-arm64-musl.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-arm64-musl.tar.gz) | 33.0 MiB | `native/linux/arm64/musl` |
+| [duckdb-static-libs-linux-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-arm64.tar.gz) | 29.3 MiB | `native/linux/arm64` |
+| [duckdb-static-libs-osx-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-osx-amd64.tar.gz) | 29.0 MiB | `native/darwin/x64` |
+| [duckdb-static-libs-osx-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-osx-arm64.tar.gz) | 27.5 MiB | `native/darwin/arm64` |
+| [duckdb-static-libs-windows-amd64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-amd64.tar.gz) | 49.3 MiB | `native/win/x64` |
+| [duckdb-static-libs-windows-arm64.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-arm64.tar.gz) | 46.7 MiB | `native/win/arm64` |
+| [duckdb-static-libs-windows-mingw.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-mingw.tar.gz) | 34.0 MiB | `native/win/x64` |
+| [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.1/libduckdb-src.zip) | 180.8 KiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/duckdb) 上共有 **83** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**41** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/duckdb) 上共有 **83** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**56** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `2.0.0` | ✅ latest |
-| Debian 14 | `2.0.0` | ✅ latest |
+| Debian unstable | `2.0.0` | ⚠️ outdated |
+| Debian 14 | `2.0.0` | ⚠️ outdated |
 | Arch | `1.5.6` | ⚠️ outdated |
-| Homebrew | `2.0.0` | ✅ latest |
+| Homebrew | `2.0.1` | ✅ latest |
 | Nix unstable | `1.5.5` | ⚠️ outdated |
 | Void | `1.5.6` | ⚠️ outdated |
 | Alpine edge | `1.5.6` | ⚠️ outdated |
@@ -111,4 +113,4 @@ duckdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T08:55:27Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T08:30:42Z._
