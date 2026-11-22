@@ -38,22 +38,22 @@ Total: **1,357,467** lines of code across **5707** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 43,216 · **Forks**: 4,169 · **Open issues**: 8,278 · **Contributors**: 767
+- **Stars**: 43,229 · **Forks**: 4,175 · **Open issues**: 8,283 · **Contributors**: 767
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 13915 · **Open PRs**: 558 · **Closed issues**: 7580 · **Open issues**: 698 · **Commits**: 95136
+- **Releases**: 66 · **Merged PRs**: 13915 · **Open PRs**: 569 · **Closed issues**: 7580 · **Open issues**: 703 · **Commits**: 95136
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 700 | 299 | 105 | 173 | 3990 |
-| last60d | 2026-09-22 | 3 | 1526 | 401 | 278 | 325 | 8598 |
-| 90d | 2026-08-23 | 3 | 2143 | 468 | 461 | 370 | 11849 |
-| last180d | 2026-05-25 | 6 | 3309 | 557 | 878 | 479 | 18065 |
-| 360d | 2025-11-26 | 12 | 5000 | 558 | 1319 | 585 | 27400 |
-| last720d | 2024-12-01 | 21 | 7433 | 558 | 2398 | 655 | 43515 |
+| 30d | 2026-10-23 | 1 | 666 | 300 | 94 | 165 | 2954 |
+| last60d | 2026-09-23 | 3 | 1493 | 408 | 260 | 324 | 8027 |
+| 90d | 2026-08-24 | 3 | 2131 | 478 | 454 | 373 | 11262 |
+| last180d | 2026-05-26 | 6 | 3290 | 566 | 877 | 484 | 17562 |
+| 360d | 2025-11-27 | 12 | 4993 | 569 | 1319 | 589 | 27054 |
+| last720d | 2024-12-02 | 21 | 7419 | 569 | 2393 | 660 | 43501 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:30:42Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:12:55Z._
