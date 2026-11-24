@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23279074,
       "digest": "sha256:a4b71ca703c143b1ee198a1d2d4c49778fc6660157098782acb94973a3ebcea1",
-      "download_count": 407,
+      "download_count": 702,
       "created_at": "2026-11-20T13:35:23Z",
       "updated_at": "2026-11-20T13:35:25Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-amd64-musl.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24797496,
       "digest": "sha256:b676268be4d39e4e41a904442c9796c9914e645cc085c7505f048f2c992b5eca",
-      "download_count": 2726,
+      "download_count": 4182,
       "created_at": "2026-11-20T13:35:26Z",
       "updated_at": "2026-11-20T13:35:27Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21126553,
       "digest": "sha256:70b9c629688ba8a76e15021b4b9e2ee5687e04d835d2d2f14367ea698bcca913",
-      "download_count": 379,
+      "download_count": 643,
       "created_at": "2026-11-20T13:35:28Z",
       "updated_at": "2026-11-20T13:35:29Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 22648356,
       "digest": "sha256:84e37891fcc45c887e30220f51a4914995cd8174139e87f8efd311ac83c956a7",
-      "download_count": 2056,
+      "download_count": 3595,
       "created_at": "2026-11-20T13:35:30Z",
       "updated_at": "2026-11-20T13:35:31Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21684907,
       "digest": "sha256:f63131b6e1e69ded1a55e0b96f2f1d77658e4cf5b666346487c927820a4d53c5",
-      "download_count": 46,
+      "download_count": 66,
       "created_at": "2026-11-20T13:35:31Z",
       "updated_at": "2026-11-20T13:35:33Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 19349951,
       "digest": "sha256:7809dc1ea9215db53f76bdd539e38186c2310b6a3b5800581bf65876048556aa",
-      "download_count": 471,
+      "download_count": 773,
       "created_at": "2026-11-20T13:35:33Z",
       "updated_at": "2026-11-20T13:35:35Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 41037027,
       "digest": "sha256:9d6ea079e8c3b5698f559fc64e7e5e43dd21a51e8a618b29b18de4716299ca40",
-      "download_count": 152,
+      "download_count": 233,
       "created_at": "2026-11-20T13:35:35Z",
       "updated_at": "2026-11-20T13:35:37Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-osx-universal.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 19951699,
       "digest": "sha256:8e40d1e9c53dfd70dd671c1f886506211bd054272e7eed35e8aa979ad7bcc9b7",
-      "download_count": 835,
+      "download_count": 1192,
       "created_at": "2026-11-20T13:35:37Z",
       "updated_at": "2026-11-20T13:35:39Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 19890817,
       "digest": "sha256:9df372514a06e9edbdca294cc43fdfbfc4e80799c8292d0964239cfcbb8718cf",
-      "download_count": 2074,
+      "download_count": 3061,
       "created_at": "2026-11-20T13:35:39Z",
       "updated_at": "2026-11-20T13:35:41Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18557617,
       "digest": "sha256:7187649c2f9c17a3a555c177a65b98bfda5298bb75bd5302501899146346ea67",
-      "download_count": 29,
+      "download_count": 47,
       "created_at": "2026-11-20T13:35:41Z",
       "updated_at": "2026-11-20T13:35:42Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 18511260,
       "digest": "sha256:484f1c0df9949f33c30dd81288ac28bbf751a01c61045e8ad2c03527d33e3634",
-      "download_count": 82,
+      "download_count": 100,
       "created_at": "2026-11-20T13:35:43Z",
       "updated_at": "2026-11-20T13:35:45Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-cli-windows-arm64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 26525570,
       "digest": "sha256:8c6309a332e9839e00eb766ea90e671b1e46b186a94f4aae69d3593ea16709a6",
-      "download_count": 25,
+      "download_count": 36,
       "created_at": "2026-11-20T13:35:45Z",
       "updated_at": "2026-11-20T13:35:47Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-amd64-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 28207066,
       "digest": "sha256:e25502612fed533a243b61f23a2a574daad030e7e88906222a5f0ab30d06769e",
-      "download_count": 883,
+      "download_count": 1620,
       "created_at": "2026-11-20T13:35:48Z",
       "updated_at": "2026-11-20T13:35:49Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 24402941,
       "digest": "sha256:229e78f13ba9ca71c75a537dc950b5908b492b18d0fdc1b894d308b28ea3cc75",
-      "download_count": 23,
+      "download_count": 35,
       "created_at": "2026-11-20T13:35:50Z",
       "updated_at": "2026-11-20T13:35:51Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-arm64-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 26068127,
       "digest": "sha256:811e8b4d0226f5e531f583aadc798070ffb33b350e3823be563a2ebeb2c68593",
-      "download_count": 149,
+      "download_count": 243,
       "created_at": "2026-11-20T13:35:52Z",
       "updated_at": "2026-11-20T13:35:53Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-linux-arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 21632950,
       "digest": "sha256:e12f174ef01575590ec6e27a5d475308680a9e15292691623d9848c0fc5a9ba8",
-      "download_count": 27,
+      "download_count": 39,
       "created_at": "2026-11-20T13:35:54Z",
       "updated_at": "2026-11-20T13:35:55Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 19317344,
       "digest": "sha256:d71e4800350f1135bc3f80a2e5cbcc01e199ca03759edf5a376db308b514b341",
-      "download_count": 80,
+      "download_count": 124,
       "created_at": "2026-11-20T13:35:56Z",
       "updated_at": "2026-11-20T13:35:57Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-arm64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 40760294,
       "digest": "sha256:9a4be5a2a31ad5bb8c92bf37f18d59b9c10a79b392d7848cabd6eb2e05837449",
-      "download_count": 122,
+      "download_count": 215,
       "created_at": "2026-11-20T13:35:57Z",
       "updated_at": "2026-11-20T13:36:00Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-osx-universal.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 20136584,
       "digest": "sha256:d51f23831423b82418ee1d5bae324484f9fbe4a2c2424fa5b6be3392453c62ce",
-      "download_count": 146,
+      "download_count": 221,
       "created_at": "2026-11-20T13:36:00Z",
       "updated_at": "2026-11-20T13:36:01Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-windows-amd64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 18730993,
       "digest": "sha256:8b5a2b23f78f96bcf8b22204629f02f6b49e08383717338c6b5f951874d1f09e",
-      "download_count": 41,
+      "download_count": 74,
       "created_at": "2026-11-20T13:36:02Z",
       "updated_at": "2026-11-20T13:36:03Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-shared-libs-windows-arm64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 36462104,
       "digest": "sha256:16b18b670cc6e4c8b9cc6d5716dbb7eb76ec4c1043c022fe01d4e15cae0fd601",
-      "download_count": 21,
+      "download_count": 25,
       "created_at": "2026-11-20T13:36:03Z",
       "updated_at": "2026-11-20T13:36:05Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-amd64-musl.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 34098966,
       "digest": "sha256:2d5655fd5948dfb0cd16df5fc8f7cdf0b37948374cf0629af995cf4a5e3a4c82",
-      "download_count": 198,
+      "download_count": 206,
       "created_at": "2026-11-20T13:36:06Z",
       "updated_at": "2026-11-20T13:36:08Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-amd64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 34581455,
       "digest": "sha256:d83ef54db14dd00c30aefa4d462134ae1cf09783bf8879299c34b5e38746bcb3",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-20T13:36:09Z",
       "updated_at": "2026-11-20T13:36:11Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-arm64-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 30688541,
       "digest": "sha256:3d581ff935f1836363cc459e640737cdc1892ab3ed69e74853e93f01d9d071f0",
-      "download_count": 97,
+      "download_count": 102,
       "created_at": "2026-11-20T13:36:11Z",
       "updated_at": "2026-11-20T13:36:12Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-linux-arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 30459088,
       "digest": "sha256:c4458122a44182f8e790d2b1e731139d7f8437ce0b14fe5a0e461612979db76b",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-11-20T13:36:13Z",
       "updated_at": "2026-11-20T13:36:15Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-osx-amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 28854121,
       "digest": "sha256:adaada35202db67d010b06277320aa700f1313d9997b549a948349c9fd749a41",
-      "download_count": 112,
+      "download_count": 244,
       "created_at": "2026-11-20T13:36:16Z",
       "updated_at": "2026-11-20T13:36:17Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-osx-arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 51728203,
       "digest": "sha256:5dc279579e87ae657bc7b5e2988742a6fd6ca3cd1c326990c05bb0a0f9939bf0",
-      "download_count": 69,
+      "download_count": 89,
       "created_at": "2026-11-20T13:36:18Z",
       "updated_at": "2026-11-20T13:36:20Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-amd64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 48952888,
       "digest": "sha256:e4804c699d6d1d693e0e42c6af4cd0ec7ab9617bc05609acde3aa3ebf252c652",
-      "download_count": 17,
+      "download_count": 38,
       "created_at": "2026-11-20T13:36:21Z",
       "updated_at": "2026-11-20T13:36:24Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-arm64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 35649717,
       "digest": "sha256:99a432db9e0edca8ddde279747f3dbd56605492f5a5d7eca879525a4c68f772c",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-20T13:36:24Z",
       "updated_at": "2026-11-20T13:36:26Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-mingw.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 185183,
       "digest": "sha256:22627d9f8fb1c49c3374db8b8c4d8e2ffd186720057ba58aad1a7aaaf78c98f4",
-      "download_count": 37,
+      "download_count": 50,
       "created_at": "2026-11-20T13:36:26Z",
       "updated_at": "2026-11-20T13:36:27Z",
       "browser_download_url": "https://github.com/duckdb/duckdb/releases/download/v2.0.1/libduckdb-src.zip"
@@ -1122,14 +1122,14 @@
   "body": "This is a bug fix release for various issues discovered after we released v2.0.0.\r\n\r\nPlease also refer to the announcement blog post: https://duckdb.org/2026/11/20/announcing-duckdb-201.html\r\n\r\n## What's Changed\r\n* Merge Rust extension CI groups by @smvv in https://github.com/duckdb/duckdb/pull/27600\r\n* Print the profiler's trailing blank line through the renderer's print sink by @h4nsmuller in https://github.com/duckdb/duckdb/pull/27604\r\n* Fix StagedUpload.yml by @lnkuiper in https://github.com/duckdb/duckdb/pull/27610\r\n* Fix StagedUpload.yml by @lnkuiper in https://github.com/duckdb/duckdb/pull/27612\r\n* Run more release checks on non-main branch by @smvv in https://github.com/duckdb/duckdb/pull/27548\r\n* Fix appending chunks larger than the vector size that need a cast by @iremcaginyurtturk in https://github.com/duckdb/duckdb/pull/27665\r\n* Backport labeled fixes to v2.0-cyanoptera by @smvv in https://github.com/duckdb/duckdb/pull/27684\r\n* Compare ANY and ALL of ARRAY(SELECT ...) against the elements of the list by @Robinho-MR in https://github.com/duckdb/duckdb/pull/27781\r\n* Parquet writer: keep a column's min/max in RETURN_STATS when a row group holds only NULLs for it by @h4nsmuller in https://github.com/duckdb/duckdb/pull/27875\r\n* Add casts from TIMESTAMPTZ_NS to TIMESTAMP by @kdmodii in https://github.com/duckdb/duckdb/pull/27928\r\n* Add a parquet_can_have_nan setting as the default for the can_have_nan option by @kdmodii in https://github.com/duckdb/duckdb/pull/27969\r\n* [v2.0-cyanoptera] Backport labeled fixes through #27935 by @smvv in https://github.com/duckdb/duckdb/pull/27965\r\n* [AUTOMATED_EDIT] Add v2.0.1 to version_map.json by @maiadegraaf in https://github.com/duckdb/duckdb/pull/28020\r\n* [v2.0-cyanoptera] Backport merged labeled fixes by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28072\r\n* Treat error() as non-volatile when deciding duplicate elimination in decorrelation by @EtgarDev in https://github.com/duckdb/duckdb/pull/28125\r\n* Cyanoptera revert unmerged by @carlopi in https://github.com/duckdb/duckdb/pull/28247\r\n* [v2.0-cyanoptera] Backport #28129: free a segment's buffer once its data is copied into a partial block by @ywelsch in https://github.com/duckdb/duckdb/pull/28139\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (2) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28290\r\n* Keep the incoming join order as a candidate in greedy join ordering by @DinosL in https://github.com/duckdb/duckdb/pull/28362\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (3) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28396\r\n* Link Wasm extensions against vcpkg_installed/${VCPKG_TARGET_TRIPLET}, on cyanoptera by @carlopi in https://github.com/duckdb/duckdb/pull/28545\r\n* Bump aws to c2f2568 (name + resolve callbacks for both resource types), on cyanoptera by @carlopi in https://github.com/duckdb/duckdb/pull/28519\r\n* [Testing] Fix problems with error logging for certain error paths by @Tishj in https://github.com/duckdb/duckdb/pull/28577\r\n* [v2.0-cyanoptera] Backport #27943: size partitioned COPY batches from the written columns by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28589\r\n* Look up the columns of a multi-file scan by name through an index when reading their statistics by @h4nsmuller in https://github.com/duckdb/duckdb/pull/28638\r\n* Update Postgres, MySQL and SQLite (2.0.1) by @staticlibs in https://github.com/duckdb/duckdb/pull/28575\r\n* [v2.0-cyanoptera] Bump avro to b7b157f50dd0 by @autograaf in https://github.com/duckdb/duckdb/pull/28657\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (4) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28602\r\n* Backport 28373 28427 by @Tmonster in https://github.com/duckdb/duckdb/pull/28733\r\n* bump iceberg and glue by @Tmonster in https://github.com/duckdb/duckdb/pull/28459\r\n* [v2.0-cyanoptera] Bump spatial by @autograaf in https://github.com/duckdb/duckdb/pull/28644\r\n* chore: pin delta, unity_catalog and azure for the v2.0.1 patch release by @benfleis in https://github.com/duckdb/duckdb/pull/28699\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (5) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28710\r\n* [v2.0-cyanoptera] Bump vortex to 89091fc7 and enable it on Windows by @autograaf in https://github.com/duckdb/duckdb/pull/28705\r\n* [Secrets] Redact the `refresh_info` in safe mode by @Tishj in https://github.com/duckdb/duckdb/pull/28679\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (6) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28746\r\n* reenable iceberg tests by @Tmonster in https://github.com/duckdb/duckdb/pull/28762\r\n* CREATE EXTENSION REPOSITORY <host>: the host names its repository (#28719) by @carlopi in https://github.com/duckdb/duckdb/pull/28805\r\n* [v2.0] Backport Vortex build fix by @lnkuiper in https://github.com/duckdb/duckdb/pull/28868\r\n* [v2.0] Bump httpfs for S3 throttling and per-file credentials by @lnkuiper in https://github.com/duckdb/duckdb/pull/28863\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (7) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28812\r\n* [v2.0-cyanoptera] Fix preparation and Summary runner selection by @smvv in https://github.com/duckdb/duckdb/pull/28919\r\n* Bump avro, remove wasm patch by @carlopi in https://github.com/duckdb/duckdb/pull/28911\r\n* Bump aws, remove patches, fixup autoload, build for wasm, on cyanoptera by @carlopi in https://github.com/duckdb/duckdb/pull/28854\r\n* List glue and legacy_parser among the default extensions, let glue autoload (backport #28820) by @carlopi in https://github.com/duckdb/duckdb/pull/28918\r\n* Bump glue, remove patch, and enable for wasm, on cyanoptera by @carlopi in https://github.com/duckdb/duckdb/pull/28855\r\n* Keep the loaded-copy extension test path under Windows MAX_PATH (#28783) by @carlopi in https://github.com/duckdb/duckdb/pull/28921\r\n* Bump azure to bf93a0a by @benomatic42 in https://github.com/duckdb/duckdb/pull/28816\r\n* [v2.0-cyanoptera] Bump Quack and remove upstreamed patch by @sebastiaan-dev in https://github.com/duckdb/duckdb/pull/28964\r\n* [v2.0-cyanoptera] Backport merged labeled fixes (8) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/28978\r\n* bump glue by @Tmonster in https://github.com/duckdb/duckdb/pull/28980\r\n* chore: update Sirius loader revision by @mbrobbel in https://github.com/duckdb/duckdb/pull/28835\r\n* Revert \"Refuse CREATE SECRET when enable_external_access is false\" by @Robinho-MR in https://github.com/duckdb/duckdb/pull/29007\r\n* Bump ducklake to latest v2.0-cyanoptera by @autograaf in https://github.com/duckdb/duckdb/pull/28959\r\n* [v2.0] Preserve row mappings in runtime filters by @lnkuiper in https://github.com/duckdb/duckdb/pull/29019\r\n* [v2.0-cyanoptera] Bump fts and iceberg by @maiadegraaf in https://github.com/duckdb/duckdb/pull/28975\r\n* [v2.0] Bump aws, remove patch, fix external resources naming by @carlopi in https://github.com/duckdb/duckdb/pull/29026\r\n* [v2.0] Bump mysql to e04d8eef94c94e70c5d5663895610b1bb475d506 by @carlopi in https://github.com/duckdb/duckdb/pull/29028\r\n* [v2.0] Bump aws by @carlopi in https://github.com/duckdb/duckdb/pull/29046\r\n* [v2.0-cyanoptera] External resource type dotted (#28996, with #28749) by @Robinho-MR in https://github.com/duckdb/duckdb/pull/29056\r\n* [v2.0-cyanoptera] Install LLVM 22 for the Windows ARM64 build by @Robinho-MR in https://github.com/duckdb/duckdb/pull/29064\r\n* [v2.0] Export only the entrypoint from C API loadable extensions by @Robinho-MR in https://github.com/duckdb/duckdb/pull/29057\r\n\r\n**Full Changelog**: https://github.com/duckdb/duckdb/compare/v2.0.0...v2.0.1",
   "reactions": {
     "url": "https://api.github.com/repos/duckdb/duckdb/releases/451318543/reactions",
-    "total_count": 30,
+    "total_count": 31,
     "+1": 14,
     "-1": 0,
     "laugh": 0,
     "hooray": 6,
     "confused": 0,
     "heart": 4,
-    "rocket": 6,
+    "rocket": 7,
     "eyes": 0
   },
   "mentions_count": 19
