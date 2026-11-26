@@ -14,15 +14,15 @@ x install duckdb
 
 ## Code insight
 
-Total: **1,366,870** lines of code across **5730** files in the top 5 languages.
+Total: **1,371,529** lines of code across **5752** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 839,573 | 72,018 | 100,370 | 2561 |
-| CppHeader | 261,312 | 45,186 | 40,262 | 1898 |
-| CHeader | 84,363 | 60,322 | 14,776 | 457 |
+| Cpp | 843,713 | 72,257 | 100,619 | 2574 |
+| CppHeader | 261,715 | 45,424 | 40,358 | 1907 |
+| CHeader | 84,363 | 60,335 | 14,776 | 457 |
 | Sql | 44,087 | 232 | 518 | 609 |
-| Python | 42,229 | 1,450 | 6,644 | 205 |
+| Python | 42,283 | 1,451 | 6,648 | 205 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,366,870** lines of code across **5730** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.1` (2026-11-20)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 30
 
 ## Popularity
 
-- **Stars**: 43,322 · **Forks**: 4,197 · **Open issues**: 8,311 · **Contributors**: 768
+- **Stars**: 43,367 · **Forks**: 4,202 · **Open issues**: 8,321 · **Contributors**: 769
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 14006 · **Open PRs**: 584 · **Closed issues**: 7590 · **Open issues**: 721 · **Commits**: 95523
+- **Releases**: 66 · **Merged PRs**: 14053 · **Open PRs**: 592 · **Closed issues**: 7600 · **Open issues**: 721 · **Commits**: 95736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 705 | 303 | 80 | 170 | 3332 |
-| last60d | 2026-09-26 | 3 | 1539 | 419 | 256 | 335 | 8408 |
-| 90d | 2026-08-27 | 3 | 2186 | 491 | 453 | 389 | 11649 |
-| last180d | 2026-05-29 | 6 | 3334 | 580 | 878 | 504 | 17949 |
-| 360d | 2025-11-30 | 12 | 5071 | 584 | 1322 | 608 | 27441 |
-| last720d | 2024-12-05 | 21 | 7480 | 584 | 2394 | 678 | 43647 |
+| 30d | 2026-10-27 | 1 | 726 | 306 | 79 | 166 | 3516 |
+| last60d | 2026-09-27 | 3 | 1582 | 427 | 261 | 338 | 8595 |
+| 90d | 2026-08-28 | 3 | 2201 | 496 | 443 | 388 | 11836 |
+| last180d | 2026-05-30 | 6 | 3379 | 587 | 888 | 504 | 18136 |
+| 360d | 2025-12-01 | 12 | 5112 | 592 | 1329 | 606 | 27628 |
+| last720d | 2024-12-06 | 21 | 7516 | 592 | 2402 | 678 | 43808 |
 
 ## Release assets
 
@@ -90,6 +90,20 @@ Total: **1,366,870** lines of code across **5730** files in the top 5 languages.
 | [duckdb-static-libs-windows-mingw.tar.gz](https://github.com/duckdb/duckdb/releases/download/v2.0.1/duckdb-static-libs-windows-mingw.tar.gz) | 34.0 MiB | `native/win/x64` |
 | [libduckdb-src.zip](https://github.com/duckdb/duckdb/releases/download/v2.0.1/libduckdb-src.zip) | 180.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **82** distros on [repology.org](https://repology.org/project/duckdb). **9** are ✅ on the latest upstream release, **48** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.0.0` | ⚠️ outdated |
+| Debian 14 | `2.0.0` | ⚠️ outdated |
+| Arch | `2.0.1` | ✅ latest |
+| Homebrew | `2.0.1` | ✅ latest |
+| Nix unstable | `1.5.5` | ⚠️ outdated |
+| Void | `1.5.6` | ⚠️ outdated |
+| Alpine edge | `1.5.6` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `duckdb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +113,4 @@ Install metadata for duckdb lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:10:56Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:28:45Z._
